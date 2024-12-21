@@ -1,8 +1,6 @@
 import createApp from "./app";
 
-const port = process.env.PORT;
-
 const app = createApp();
-app.listen(port, () => {
-  console.log(`Listening at http://localhost:${port}`);
+app.listen(3000, () => {
+  console.log(`Listening at http://localhost:3000`);
 });
