@@ -7,12 +7,12 @@ import {
 export const getAllShips = async (req: Request, res: Response) => {
   const response = await getShipsService();
 
-  res.status(response.statusCode).json(response.body);
+  return res.status(response.statusCode).json(response.body);
 };
 
 export const getShipsById = async (req: Request, res: Response) => {
   const id = parseInt(req.params.id);
   const response = await getShipsByIdService(id);
 
-  res.status(response.statusCode).json(response.body);
+  return res.status(response.statusCode).json(response.body);
 };
