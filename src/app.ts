@@ -4,9 +4,9 @@ import cors from "cors";
 
 function createApp() {
   const app = express();
+  app.use(cors({ origin: "*" }));
   app.use(express.json());
   app.use("/api", router);
-  app.use(cors({ origin: "*" }));
 
   return app;
 }
