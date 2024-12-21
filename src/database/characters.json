@@ -1,0 +1,564 @@
+[
+  {
+    "id": 1,
+    "nome": "James T. Kirk",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 34,
+    "biografia": "O Capitão James T. Kirk é o comandante da USS Enterprise, conhecido por suas estratégias ousadas e carisma.",
+    "habilidades": ["Liderança", "Combate", "Táticas"],
+    "aparicoes": ["Star Trek: A Série Clássica", "Star Trek II: A Ira de Khan"],
+    "aliados": ["Spock", "Leonard McCoy", "Nyota Uhura"],
+    "inimigos": ["Khan Noonien Singh", "Império Klingon", "Romulanos"]
+  },
+  {
+    "id": 2,
+    "nome": "Spock",
+    "especie": "Vulcano",
+    "origem": "Vulcano",
+    "idade": 102,
+    "biografia": "Spock é o oficial de ciências da USS Enterprise, metade humano e metade vulcano, famoso por sua lógica impecável.",
+    "habilidades": ["Lógica", "Ciência", "Diplomacia"],
+    "aparicoes": ["Star Trek: A Série Clássica", "Star Trek II: A Ira de Khan"],
+    "aliados": ["James T. Kirk", "Leonard McCoy"],
+    "inimigos": ["Império Klingon", "Romulanos"]
+  },
+  {
+    "id": 3,
+    "nome": "Leonard McCoy",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 42,
+    "biografia": "Dr. McCoy, conhecido como 'Bones', é o médico-chefe da USS Enterprise, famoso por seu humor ácido e compaixão.",
+    "habilidades": ["Medicina", "Cirurgia", "Diagnóstico"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica",
+      "Star Trek III: À Procura de Spock"
+    ],
+    "aliados": ["James T. Kirk", "Spock"],
+    "inimigos": []
+  },
+  {
+    "id": 4,
+    "nome": "Nyota Uhura",
+    "especie": "Humana",
+    "origem": "Terra",
+    "idade": 29,
+    "biografia": "A Tenente Uhura é a oficial de comunicações da USS Enterprise, destacando-se por suas habilidades linguísticas.",
+    "habilidades": ["Linguística", "Comunicação", "Tecnologia"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica",
+      "Star Trek VI: A Terra Desconhecida"
+    ],
+    "aliados": ["James T. Kirk", "Spock"],
+    "inimigos": ["Império Klingon"]
+  },
+  {
+    "id": 5,
+    "nome": "Montgomery Scott",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 37,
+    "biografia": "Scotty é o engenheiro-chefe da USS Enterprise, conhecido por suas habilidades de engenharia.",
+    "habilidades": ["Engenharia", "Resolução de Problemas", "Mecânica"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica",
+      "Star Trek IV: A Volta para Casa"
+    ],
+    "aliados": ["James T. Kirk", "Spock"],
+    "inimigos": []
+  },
+  {
+    "id": 6,
+    "nome": "Hikaru Sulu",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 30,
+    "biografia": "Sulu é o piloto da USS Enterprise, conhecido por sua calma e habilidades em navegação.",
+    "habilidades": ["Navegação", "Pilotagem", "Esgrima"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica",
+      "Star Trek VI: A Terra Desconhecida"
+    ],
+    "aliados": ["James T. Kirk", "Spock"],
+    "inimigos": []
+  },
+  {
+    "id": 7,
+    "nome": "Pavel Chekov",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 22,
+    "biografia": "Chekov é o navegador entusiasmado da USS Enterprise, um jovem talentoso.",
+    "habilidades": ["Navegação", "Engenharia", "Física"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica",
+      "Star Trek IV: A Volta para Casa"
+    ],
+    "aliados": ["James T. Kirk", "Spock"],
+    "inimigos": ["Império Klingon"]
+  },
+  {
+    "id": 8,
+    "nome": "Christine Chapel",
+    "especie": "Humana",
+    "origem": "Terra",
+    "idade": 35,
+    "biografia": "A enfermeira Christine Chapel auxilia o Dr. McCoy nos cuidados médicos da Enterprise.",
+    "habilidades": ["Medicina", "Cuidados com Pacientes"],
+    "aparicoes": ["Star Trek: A Série Clássica"],
+    "aliados": ["Leonard McCoy", "Spock"],
+    "inimigos": []
+  },
+  {
+    "id": 9,
+    "nome": "Harry Mudd",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 45,
+    "biografia": "Um trapaceiro intergaláctico que frequentemente causa problemas para a tripulação da Enterprise.",
+    "habilidades": ["Manipulação", "Negociação", "Contrabando"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica - Mudd's Women",
+      "Star Trek: A Série Clássica - I, Mudd"
+    ],
+    "aliados": [],
+    "inimigos": ["James T. Kirk"]
+  },
+  {
+    "id": 10,
+    "nome": "Khan Noonien Singh",
+    "especie": "Humano Geneticamente Modificado",
+    "origem": "Terra",
+    "idade": 200,
+    "biografia": "Khan é um super-humano do século 20, revivido no futuro, em busca de poder e vingança.",
+    "habilidades": ["Força Sobre-Humana", "Estratégia Militar", "Manipulação"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica - Space Seed",
+      "Star Trek II: A Ira de Khan"
+    ],
+    "aliados": [],
+    "inimigos": ["James T. Kirk", "Tripulação da Enterprise"]
+  },
+  {
+    "id": 11,
+    "nome": "Comandante Kor",
+    "especie": "Klingon",
+    "origem": "Qo'noS",
+    "idade": 50,
+    "biografia": "Kor é um comandante Klingon que enfrenta a tripulação da Enterprise.",
+    "habilidades": ["Estratégia Militar", "Combate"],
+    "aparicoes": ["Star Trek: A Série Clássica - Errand of Mercy"],
+    "aliados": ["Império Klingon"],
+    "inimigos": ["James T. Kirk", "Spock"]
+  },
+  {
+    "id": 12,
+    "nome": "Jean-Luc Picard",
+    "especie": "Humano",
+    "origem": "La Barre, França, Terra",
+    "idade": 59,
+    "biografia": "Jean-Luc Picard é o capitão da USS Enterprise-D, um líder sábio e estrategista brilhante, conhecido por suas habilidades diplomáticas e amor pela exploração.",
+    "habilidades": ["Liderança", "Diplomacia", "Estratégia"],
+    "aparicoes": ["Star Trek: The Next Generation", "Star Trek: Picard"],
+    "aliados": ["William T. Riker", "Deanna Troi", "Data"],
+    "inimigos": ["Borg", "Romulanos", "Q"]
+  },
+  {
+    "id": 13,
+    "nome": "William T. Riker",
+    "especie": "Humano",
+    "origem": "Valdez, Alasca, Terra",
+    "idade": 35,
+    "biografia": "William T. Riker é o primeiro oficial da USS Enterprise-D, famoso por sua coragem, charme e habilidades de comando.",
+    "habilidades": ["Comando", "Estratégia", "Combate"],
+    "aparicoes": ["Star Trek: The Next Generation"],
+    "aliados": ["Jean-Luc Picard", "Deanna Troi"],
+    "inimigos": ["Borg", "Romulanos"]
+  },
+  {
+    "id": 14,
+    "nome": "Data",
+    "especie": "Andróide",
+    "origem": "Omicron Theta",
+    "idade": 26,
+    "biografia": "Data é um andróide altamente avançado que serve como segundo oficial e oficial de operações da Enterprise, buscando compreender a humanidade.",
+    "habilidades": [
+      "Força Sobre-Humana",
+      "Inteligência Avançada",
+      "Análise de Dados"
+    ],
+    "aparicoes": ["Star Trek: The Next Generation"],
+    "aliados": ["Geordi La Forge", "Jean-Luc Picard"],
+    "inimigos": ["Borg"]
+  },
+  {
+    "id": 15,
+    "nome": "Deanna Troi",
+    "especie": "Betazóide/Humana",
+    "origem": "Betazed",
+    "idade": 33,
+    "biografia": "Deanna Troi é a conselheira da USS Enterprise-D, com a habilidade empática de sentir emoções.",
+    "habilidades": ["Empatia", "Psicologia", "Diplomacia"],
+    "aparicoes": ["Star Trek: The Next Generation"],
+    "aliados": ["Jean-Luc Picard", "William T. Riker"],
+    "inimigos": ["Romulanos"]
+  },
+  {
+    "id": 16,
+    "nome": "Geordi La Forge",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 30,
+    "biografia": "Geordi La Forge é o engenheiro-chefe da USS Enterprise-D, conhecido por sua genialidade técnica e visão artificial com o VISOR.",
+    "habilidades": ["Engenharia", "Resolução de Problemas", "Tecnologia"],
+    "aparicoes": ["Star Trek: The Next Generation"],
+    "aliados": ["Data", "Jean-Luc Picard"],
+    "inimigos": ["Borg"]
+  },
+  {
+    "id": 17,
+    "nome": "Worf",
+    "especie": "Klingon",
+    "origem": "Qo'noS",
+    "idade": 35,
+    "biografia": "Worf é o chefe de segurança da USS Enterprise-D, conhecido por sua honra Klingon e habilidades de combate.",
+    "habilidades": ["Combate", "Táticas Militares", "Segurança"],
+    "aparicoes": [
+      "Star Trek: The Next Generation",
+      "Star Trek: Deep Space Nine"
+    ],
+    "aliados": ["Jean-Luc Picard", "Geordi La Forge"],
+    "inimigos": ["Romulanos", "Borg"]
+  },
+  {
+    "id": 18,
+    "nome": "Beverly Crusher",
+    "especie": "Humana",
+    "origem": "Terra",
+    "idade": 45,
+    "biografia": "Beverly Crusher é a médica-chefe da USS Enterprise-D, uma especialista em medicina e mãe de Wesley Crusher.",
+    "habilidades": ["Medicina", "Diagnóstico", "Ciência"],
+    "aparicoes": ["Star Trek: The Next Generation"],
+    "aliados": ["Jean-Luc Picard", "Deanna Troi"],
+    "inimigos": []
+  },
+  {
+    "id": 19,
+    "nome": "Wesley Crusher",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 16,
+    "biografia": "Wesley Crusher é um jovem prodígio e filho de Beverly Crusher, que demonstra grande talento em ciência e engenharia.",
+    "habilidades": ["Ciência", "Engenharia", "Navegação"],
+    "aparicoes": ["Star Trek: The Next Generation"],
+    "aliados": ["Beverly Crusher", "Data"],
+    "inimigos": []
+  },
+  {
+    "id": 20,
+    "nome": "Benjamin Sisko",
+    "especie": "Humano",
+    "origem": "Nova Orleans, Terra",
+    "idade": 40,
+    "biografia": "Benjamin Sisko é o comandante da estação espacial Deep Space Nine e o emissário dos Profetas, equilibrando suas responsabilidades militares e espirituais.",
+    "habilidades": ["Liderança", "Diplomacia", "Estratégia"],
+    "aparicoes": ["Star Trek: Deep Space Nine"],
+    "aliados": ["Kira Nerys", "Jadzia Dax", "Odo"],
+    "inimigos": ["Dominion", "Cardassianos", "Klingons"]
+  },
+  {
+    "id": 21,
+    "nome": "Kira Nerys",
+    "especie": "Bajorana",
+    "origem": "Bajor",
+    "idade": 34,
+    "biografia": "Kira Nerys é a oficial de primeiro contato de Deep Space Nine e ex-lutadora da resistência Bajorana, comprometida com a independência de seu povo.",
+    "habilidades": ["Combate", "Táticas Militares", "Diplomacia"],
+    "aparicoes": ["Star Trek: Deep Space Nine"],
+    "aliados": ["Benjamin Sisko", "Odo", "Jadzia Dax"],
+    "inimigos": ["Cardassianos", "Dominion"]
+  },
+  {
+    "id": 22,
+    "nome": "Jadzia Dax",
+    "especie": "Trill (Simbionte e hospedeira)",
+    "origem": "Trill",
+    "idade": 300,
+    "biografia": "Jadzia Dax é uma oficial científica de Deep Space Nine, portadora de memórias e experiências de múltiplas vidas graças ao simbionte Dax.",
+    "habilidades": ["Ciência", "Estratégia", "História Trill"],
+    "aparicoes": ["Star Trek: Deep Space Nine"],
+    "aliados": ["Benjamin Sisko", "Worf"],
+    "inimigos": ["Dominion"]
+  },
+  {
+    "id": 23,
+    "nome": "Odo",
+    "especie": "Fundador (Mudança de Forma)",
+    "origem": "Quadrante Gama",
+    "idade": 50,
+    "biografia": "Odo é o chefe de segurança de Deep Space Nine e um Mudança de Forma que busca entender tanto sua natureza quanto a humanidade.",
+    "habilidades": ["Metamorfose", "Detetive", "Segurança"],
+    "aparicoes": ["Star Trek: Deep Space Nine"],
+    "aliados": ["Kira Nerys", "Benjamin Sisko"],
+    "inimigos": ["Dominion"]
+  },
+  {
+    "id": 24,
+    "nome": "Julian Bashir",
+    "especie": "Humano (geneticamente melhorado)",
+    "origem": "Terra",
+    "idade": 29,
+    "biografia": "Julian Bashir é o médico-chefe de Deep Space Nine, conhecido por sua inteligência aprimorada e dedicação à medicina.",
+    "habilidades": ["Medicina", "Diagnóstico", "Ciência"],
+    "aparicoes": ["Star Trek: Deep Space Nine"],
+    "aliados": ["Jadzia Dax", "Miles O'Brien"],
+    "inimigos": ["Dominion"]
+  },
+  {
+    "id": 25,
+    "nome": "Quark",
+    "especie": "Ferengi",
+    "origem": "Ferenginar",
+    "idade": 50,
+    "biografia": "Quark é o proprietário de um bar em Deep Space Nine, sempre envolvido em negócios, muitas vezes seguindo as Regras de Aquisição Ferengi.",
+    "habilidades": ["Negócios", "Diplomacia", "Engano"],
+    "aparicoes": ["Star Trek: Deep Space Nine"],
+    "aliados": ["Rom", "Nog"],
+    "inimigos": ["Cardassianos", "Dominion"]
+  },
+  {
+    "id": 26,
+    "nome": "Miles O'Brien",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 40,
+    "biografia": "Miles O'Brien é o engenheiro-chefe de Deep Space Nine, especialista em transportadores e manutenção técnica da estação.",
+    "habilidades": ["Engenharia", "Resolução de Problemas", "Tecnologia"],
+    "aparicoes": [
+      "Star Trek: The Next Generation",
+      "Star Trek: Deep Space Nine"
+    ],
+    "aliados": ["Julian Bashir", "Benjamin Sisko"],
+    "inimigos": ["Cardassianos", "Dominion"]
+  },
+  {
+    "id": 27,
+    "nome": "Worf",
+    "especie": "Klingon",
+    "origem": "Qo'noS",
+    "idade": 45,
+    "biografia": "Worf junta-se à tripulação de Deep Space Nine após servir na Enterprise, trazendo sua experiência Klingon e habilidades de combate.",
+    "habilidades": ["Combate", "Estratégia", "Diplomacia Klingon"],
+    "aparicoes": [
+      "Star Trek: The Next Generation",
+      "Star Trek: Deep Space Nine"
+    ],
+    "aliados": ["Jadzia Dax", "Benjamin Sisko"],
+    "inimigos": ["Dominion", "Cardassianos"]
+  },
+  {
+    "id": 28,
+    "nome": "Kathryn Janeway",
+    "especie": "Humana",
+    "origem": "Terra",
+    "idade": 40,
+    "biografia": "A Capitã Kathryn Janeway lidera a USS Voyager em sua jornada de volta ao Quadrante Alfa, equilibrando liderança firme com empatia.",
+    "habilidades": ["Liderança", "Ciência", "Estratégia"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Chakotay", "Tuvok", "Tom Paris"],
+    "inimigos": ["Borg", "Kazon", "Vidiianos"]
+  },
+  {
+    "id": 29,
+    "nome": "Chakotay",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 38,
+    "biografia": "Chakotay, ex-oficial Maquis, é o Primeiro Oficial da USS Voyager, trazendo equilíbrio e sabedoria ao comando.",
+    "habilidades": ["Diplomacia", "Pilotagem", "Combate"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Kathryn Janeway", "B'Elanna Torres", "Tuvok"],
+    "inimigos": ["Kazon", "Borg"]
+  },
+  {
+    "id": 30,
+    "nome": "Tuvok",
+    "especie": "Vulcano",
+    "origem": "Vulcano",
+    "idade": 110,
+    "biografia": "Tuvok é o Chefe de Segurança da USS Voyager e um estrategista lógico, confiável e reservado.",
+    "habilidades": ["Lógica", "Segurança", "Combate"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Kathryn Janeway", "Chakotay"],
+    "inimigos": ["Kazon", "Hirogen"]
+  },
+  {
+    "id": 31,
+    "nome": "Tom Paris",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 30,
+    "biografia": "Tom Paris é o piloto da USS Voyager, conhecido por seu espírito rebelde e habilidades excepcionais em navegação.",
+    "habilidades": ["Pilotagem", "Engenharia", "Exploração"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Kathryn Janeway", "Harry Kim"],
+    "inimigos": ["Kazon"]
+  },
+  {
+    "id": 32,
+    "nome": "B'Elanna Torres",
+    "especie": "Klingon/Humana",
+    "origem": "Colônia Klingon",
+    "idade": 28,
+    "biografia": "B'Elanna Torres é a engenheira-chefe da USS Voyager, enfrentando os desafios de ser meio Klingon e meio humana.",
+    "habilidades": ["Engenharia", "Tecnologia", "Resolução de Problemas"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Kathryn Janeway", "Tom Paris", "Chakotay"],
+    "inimigos": ["Vidiianos", "Kazon"]
+  },
+  {
+    "id": 33,
+    "nome": "Harry Kim",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 23,
+    "biografia": "Harry Kim é o jovem oficial de operações da USS Voyager, conhecido por sua lealdade e vontade de aprender.",
+    "habilidades": ["Tecnologia", "Ciência", "Diplomacia"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Tom Paris", "Kathryn Janeway"],
+    "inimigos": ["Kazon"]
+  },
+  {
+    "id": 34,
+    "nome": "O Doutor",
+    "especie": "Holograma",
+    "origem": "Holográfico",
+    "idade": 5,
+    "biografia": "O Doutor é o programa médico de emergência da USS Voyager que evolui para ser um membro indispensável da tripulação.",
+    "habilidades": ["Medicina", "Diagnóstico", "Tecnologia"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Kathryn Janeway", "Seven of Nine"],
+    "inimigos": ["Vidiianos"]
+  },
+  {
+    "id": 35,
+    "nome": "Neelix",
+    "especie": "Talaxiano",
+    "origem": "Rinax",
+    "idade": 30,
+    "biografia": "Neelix é o guia e cozinheiro da USS Voyager, trazendo otimismo e conhecimentos culturais diversos.",
+    "habilidades": ["Diplomacia", "Culinária", "Exploração"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Kathryn Janeway", "Kes"],
+    "inimigos": ["Kazon"]
+  },
+  {
+    "id": 36,
+    "nome": "Kes",
+    "especie": "Ocampa",
+    "origem": "Ocampa",
+    "idade": 2,
+    "biografia": "Kes é uma Ocampa que serve como ajudante médica e explora suas habilidades psíquicas durante a jornada.",
+    "habilidades": ["Psíquica", "Medicina", "Empatia"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Neelix", "O Doutor"],
+    "inimigos": ["Kazon", "Vidiians"]
+  },
+  {
+    "id": 37,
+    "nome": "Seven of Nine",
+    "especie": "Humana assimilada pelos Borg",
+    "origem": "Terra",
+    "idade": 26,
+    "biografia": "Seven of Nine, uma ex-drone Borg, luta para recuperar sua humanidade enquanto se torna um recurso vital na USS Voyager.",
+    "habilidades": ["Tecnologia Borg", "Estratégia", "Ciência"],
+    "aparicoes": ["Star Trek: Voyager"],
+    "aliados": ["Kathryn Janeway", "O Doutor"],
+    "inimigos": ["Borg", "Espécie 8472"]
+  },
+  {
+    "id": 38,
+    "nome": "Jonathan Archer",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 44,
+    "biografia": "Jonathan Archer é o capitão da nave estelar USS Enterprise NX-01, a primeira nave humana a viajar para além do sistema solar e a iniciar o processo de exploração da galáxia.",
+    "habilidades": ["Liderança", "Diplomacia", "Estratégia"],
+    "aparicoes": ["Star Trek: Enterprise"],
+    "aliados": ["T'Pol", "Trip Tucker", "Malcolm Reed"],
+    "inimigos": ["Zindi", "Suliban", "Romulanos"]
+  },
+  {
+    "id": 39,
+    "nome": "T'Pol",
+    "especie": "Vulcana",
+    "origem": "Vulcano",
+    "idade": 35,
+    "biografia": "T'Pol é a oficial de ciências da USS Enterprise, uma vulcana que inicialmente serve como consultora do governo vulcano antes de se tornar uma parte integral da tripulação.",
+    "habilidades": ["Lógica", "Ciência", "Táticas"],
+    "aparicoes": ["Star Trek: Enterprise"],
+    "aliados": ["Jonathan Archer", "Trip Tucker"],
+    "inimigos": ["Suliban", "Romulanos"]
+  },
+  {
+    "id": 40,
+    "nome": "Charles 'Trip' Tucker III",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 32,
+    "biografia": "Trip Tucker é o engenheiro-chefe da USS Enterprise, conhecido por sua habilidade técnica e bom humor, frequentemente estabelecendo uma amizade próxima com o Capitão Archer.",
+    "habilidades": ["Engenharia", "Manutenção", "Piloto"],
+    "aparicoes": ["Star Trek: Enterprise"],
+    "aliados": ["Jonathan Archer", "T'Pol"],
+    "inimigos": ["Suliban", "Zindi"]
+  },
+  {
+    "id": 41,
+    "nome": "Malcolm Reed",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 30,
+    "biografia": "Malcolm Reed é o oficial de armas e segurança da USS Enterprise, conhecido por ser um especialista em táticas de combate e por sua habilidade com armamentos.",
+    "habilidades": ["Segurança", "Armas", "Estratégia"],
+    "aparicoes": ["Star Trek: Enterprise"],
+    "aliados": ["Jonathan Archer", "Trip Tucker", "T'Pol"],
+    "inimigos": ["Suliban", "Romulanos"]
+  },
+  {
+    "id": 42,
+    "nome": "Hoshi Sato",
+    "especie": "Humana",
+    "origem": "Terra",
+    "idade": 28,
+    "biografia": "Hoshi Sato é a oficial de comunicações da USS Enterprise, fluente em múltiplas línguas e capaz de traduzir a comunicação de várias espécies alienígenas.",
+    "habilidades": ["Linguística", "Comunicação", "Tradução"],
+    "aparicoes": ["Star Trek: Enterprise"],
+    "aliados": ["Jonathan Archer", "Trip Tucker"],
+    "inimigos": ["Zindi", "Suliban"]
+  },
+  {
+    "id": 43,
+    "nome": "Travis Mayweather",
+    "especie": "Humano",
+    "origem": "Terra",
+    "idade": 26,
+    "biografia": "Travis Mayweather é o oficial de navegação da USS Enterprise, com grande experiência em viagens espaciais devido ao seu histórico com a família, que era de naves de carga.",
+    "habilidades": ["Navegação", "Pilotagem", "Exploração"],
+    "aparicoes": ["Star Trek: Enterprise"],
+    "aliados": ["Jonathan Archer", "T'Pol"],
+    "inimigos": ["Suliban", "Romulanos"]
+  },
+  {
+    "id": 44,
+    "nome": "Phlox",
+    "especie": "Denobulano",
+    "origem": "Denobula",
+    "idade": 50,
+    "biografia": "Dr. Phlox é o médico-chefe da USS Enterprise, um Denobulano com uma abordagem positiva e incomum para a medicina, especializado em cuidados de várias espécies.",
+    "habilidades": ["Medicina", "Diagnóstico", "Pesquisa"],
+    "aparicoes": ["Star Trek: Enterprise"],
+    "aliados": ["Jonathan Archer", "T'Pol", "Trip Tucker"],
+    "inimigos": ["Zindi", "Suliban"]
+  }
+]

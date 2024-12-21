@@ -1,0 +1,1088 @@
+[
+  {
+    "id": 1,
+    "nome": "USS Adelphi",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-26849",
+    "descricao": "Conduziu o desastroso primeiro contato com os habitantes do planeta Ghorusda. Quarenta e sete pessoas, inclusive o capitão Darson morreram, no que ficou conhecido como o desastre de Ghorusda. Este primeiro contato foi conduzido por um betazed chamado Tam Elbrun, que foi considerado um prodígio entre os de sua raça."
+  },
+  {
+    "id": 2,
+    "nome": "USS Agamemnon",
+    "classe": "Apollo",
+    "numero_registro": "NCC-11638",
+    "descricao": "Em 2367-2368, a Agamemnon serviu para compor a malha de detecção de tachyon para detecção de naves romulanas camufladas, parte na armada de bloqueio do capitão Picard contra a interferência romulana durante a guerra civil klingon em 2367-2368."
+  },
+  {
+    "id": 3,
+    "nome": "USS Ahwahnee",
+    "classe": "Cheyenne",
+    "numero_registro": "NCC-73620",
+    "descricao": "Uma das 39 naves destruídas na batalha Wolf 359 pelos Borgs em 2367. Existe uma segunda USS Ahwahnee NCC - 71620 que foi utilizada para formar a rede de Téquios em TNG: 'Redenção II'. Não está claro se esta é a mesma nave, reformada e recuperada depois de Wolf 359, ou trata-se de outra nave que foi nomeada em homenagem a primeira - neste caso fica a dúvida de porque utilizar o mesmo registro."
+  },
+  {
+    "id": 4,
+    "nome": "USS Ajax",
+    "classe": "Apollo",
+    "numero_registro": "NCC-11574",
+    "descricao": "Em 2327, a Ajax foi a primeira nave em que o alferes Cortin Zweler serviu, depois de sua saída da Academia da Frota Estelar. Em 2364, o especialista em propulsão da Frota Kosinski testou uma melhoria no sistema de dobra, embora depois soubesse-se que suas teorias não tinham base e sim a interferência de um alienígena viajante no tempo. Em 2368, a Ajax serviu como parte na armada de bloqueio do capitão Picard contra a interferência romulana durante a guerra civil klingon em 2367-2368."
+  },
+  {
+    "id": 5,
+    "nome": "USS Akagi",
+    "classe": "Rigel",
+    "numero_registro": "NCC-62158",
+    "descricao": "A Akagi serviu na armada de bloqueio do capitão Picard para detectar as naves de suprimentos romulanas às forças da família Duras durante a guerra civil klingon em 2367-2368. Em 2374, esta nave também fez parte da nona frota alocada perto da Estação Deep Space Nine em 2374."
+  },
+  {
+    "id": 6,
+    "nome": "USS Antares",
+    "classe": "Antares",
+    "numero_registro": "NCC-501",
+    "descricao": "Nave científica da Federação que resgatou o adolescente Charles Evans do planeta Thasus em 2266. A nave foi destruída por Charles Evans. Nave-protótipo para a classe Antares."
+  },
+  {
+    "id": 7,
+    "nome": "USS Appalachia",
+    "classe": "Steamrunner",
+    "numero_registro": "NCC-52136",
+    "descricao": "Em meados do ano 2373, várias naves estelares classe Steamrunner lutaram na Frota de Defesa contra os Borg na Batalha do Setor 001. Dentre estas naves estava a USS Appalachia que se juntou as demais naves no ataque final às coordenadas do cubo Borg definidas pelo Capitão Jean-Luc Picard da USS Enterprise-E."
+  },
+  {
+    "id": 8,
+    "nome": "USS Archon",
+    "classe": "Deadalus",
+    "numero_registro": "NCC-189",
+    "descricao": "Das primeiras naves da Federação, a Archon desapareceu no planeta Beta III no ano 2167. A nave foi tirada de órbita pelo computador planetário Landru. Os membros da tripulação sobreviventes foram absorvidos na sociedade de Beta III, passando a ser conhecidos como Archons."
+  },
+  {
+    "id": 9,
+    "nome": "USS Arcos",
+    "classe": "Deneva",
+    "numero_registro": "NCC-6237",
+    "descricao": "A Arcos foi destruída por causa da fusão do reator em órbita de Turkana IV. A tripulação escapou a bordo de salva-vidas e foi capturada pela Aliança, facção guerreira no planeta que lutava pelo poder."
+  },
+  {
+    "id": 10,
+    "nome": "USS Aries",
+    "classe": "Renaissance",
+    "numero_registro": "NCC-45167",
+    "descricao": "Comandante William T. Riker recusou o comando dessa nave em 2365. A USS Aries foi o último designamento do ex-tripulante da Victory Mendez, antes de sua desaparição em 2367."
+  },
+  {
+    "id": 11,
+    "nome": "USS Armstrong",
+    "classe": "Challenger",
+    "numero_registro": "NCC-57537",
+    "descricao": "A Armstrong foi emboscada por grupo de batalha Klingon em 2373, com sérias baixas. Após a batalha, recebeu assistência médica e reparos na Estação Deep Space 9."
+  },
+  {
+    "id": 12,
+    "nome": "USS Bellerophon",
+    "classe": "Nebula",
+    "numero_registro": "NCC-62048",
+    "descricao": "Uma das 39 naves destruídas na batalha Wolf 359 pelos Borgs em 2367. Participou da tentativa de resgate da USS Saratoga, presa pelo raio trator Borg. Ambas as naves foram destruídas."
+  },
+  {
+    "id": 13,
+    "nome": "USS Bellerophon",
+    "classe": "Intrepid",
+    "numero_registro": "NCC-74705",
+    "descricao": "Esta nave da classe Intrepid foi lançada em 2371. Sob o comando do Alm. Ross, transportou delegados da Federação a Romulus para uma conferência sobre a Guerra contra o Dominion em 2375."
+  },
+  {
+    "id": 14,
+    "nome": "USS Biko",
+    "classe": "Oberth",
+    "numero_registro": "NCC-50331",
+    "descricao": "Nave de suprimentos da Federação que estava programada para encontrar com a USS Enterprise-D na data estelar 46271 no planeta Deinonychus VII."
+  },
+  {
+    "id": 15,
+    "nome": "USS Bonchune",
+    "classe": "Nebula",
+    "numero_registro": "NCC-70915",
+    "descricao": "A USS Bonchune entrou em serviço em 2370. Fez parte da armada que perseguiu a USS Prometheus quando esta foi abordada e sequestrada pelos Romulanos. Durante a batalha que se seguiu, a USS Bonchune foi rapidamente desativada pelo poder de fogo superior da nova nave de ataque Multi-Vetor."
+  },
+  {
+    "id": 16,
+    "nome": "USS Bonestell",
+    "classe": "Oberth",
+    "numero_registro": "NCC-31600",
+    "descricao": "Uma das 39 naves destruídas na batalha Wolf 359 pelos Borgs em 2367. Esta nave aparece explodindo na janela do quarto onde Jennifer Sisko morreu durante a batalha de Wolf 359."
+  },
+  {
+    "id": 17,
+    "nome": "USS Bozeman",
+    "classe": "Soyuz",
+    "numero_registro": "NCC-1941",
+    "descricao": "A Bozeman estava há apenas três semanas fora do estaleiro quando ela desapareceu perto da Expansão Typhon em 2278, onde ficou até 2368. Durante esses 90 anos, aqueles a bordo da Bozeman tiveram uma experiência da passagem de um curto espaço de tempo, mas sem saber, estavam em um loop de causalidade temporal recursivo. O loop foi interrompido pela Enterprise-D, com a qual quase colidiu. A Bozeman também fez parte das forças que defenderam a Terra na segunda grande invasão dos Borgs."
+  },
+  {
+    "id": 18,
+    "nome": "USS Bradbury",
+    "classe": "Bradbury",
+    "numero_registro": "NX-72307",
+    "descricao": "O alferes Wesley Crusher deveria ser transportado pela Bradbury para ser levado à Academia da Frota Estelar na Terra. Infelizmente, Wesley perdeu seu transporte quando participava do resgate da Embaixadora Troi, do comandante Riker e da conselheira Troi de uma nave Ferengi."
+  },
+  {
+    "id": 19,
+    "nome": "USS Brattain",
+    "classe": "Miranda",
+    "numero_registro": "NCC-21166",
+    "descricao": "A Brattain desapareceu misteriosamente em 2367 e foi encontrada presa no Tyken's Rift perto de um sistema estelar binário pela tripulação da USS Enterprise-D. Todos os tripulantes da Brattain, exceto um, foram encontrados mortos, aparentemente devido à privação de sono MRO causada por uma nave alienígena tentando se comunicar."
+  },
+  {
+    "id": 20,
+    "nome": "USS Buran (Século XXIII)",
+    "classe": "desconhecida",
+    "numero_registro": "desconhecido",
+    "descricao": "A USS Buran foi comandada pelo capitão Gabriel Lorca em 2256. Durante a Guerra da Federação contra o Império Klingon, a nave foi emboscada e Lorca escolheu destruir sua nave e sua tripulação para evitar que fossem capturados. Ele foi o único sobrevivente, mas sofreu uma lesão nos olhos que causou fotossensibilidade."
+  },
+  {
+    "id": 21,
+    "nome": "USS Buran",
+    "classe": "Challenger",
+    "numero_registro": "NCC-57580",
+    "descricao": "Uma das 39 naves destruídas na batalha Wolf 359 pelos Borgs em 2367."
+  },
+  {
+    "id": 22,
+    "nome": "USS Cairo",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-42136",
+    "descricao": "A Cairo transportou a vice-almirante Alynna Nechayev em 2369 para um encontro com a Enterprise-D. A nave foi perdida em 2374 pelas forças do Dominion enquanto patrulhava a zona neutra romulana, estando sob o comando do Capitão Leslie Wong no momento de seu desaparecimento."
+  },
+  {
+    "id": 23,
+    "nome": "USS Carolina (Século XXIII)",
+    "classe": "Deadalus",
+    "numero_registro": "NCC-160",
+    "descricao": "A USS Carolina enviou um sinal de emergência para a USS Enterprise na data estelar 3497, que mais tarde revelou-se uma tentativa Klingon de afastar a Enterprise do planeta Capella IV."
+  },
+  {
+    "id": 24,
+    "nome": "USS Carolina",
+    "classe": "Centaur",
+    "numero_registro": "NCC-42050",
+    "descricao": "Em 2377, a USS Carolina foi desviada pelo Almirante Owen Paris para interceptar uma nave Maurauder Ferengi que interferia nas comunicações do Projeto Pathfinder com a USS Voyager no quadrante Delta."
+  },
+  {
+    "id": 25,
+    "nome": "USS Cerritos",
+    "classe": "California",
+    "numero_registro": "NCC-75567",
+    "descricao": "Em 2380, sob o comando da capitã Carol Freeman, a USS Cerritos estava especializada em operações de segundo contato com novas civilizações. A nave também participou de várias missões de apoio, incluindo ajudar na implosão de uma lua instável e resgatar naves em dificuldades."
+  },
+  {
+    "id": 26,
+    "nome": "USS Charleston",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-42285",
+    "descricao": "A Charleston transportou três sobreviventes do século 20 após serem revividos do estado de criogenia de volta à Terra."
+  },
+  {
+    "id": 27,
+    "nome": "USS Challenger",
+    "classe": "Galaxy",
+    "numero_registro": "NCC-71099",
+    "descricao": "Lançada por volta de 2377, a USS Challenger foi designada para interceptar uma possível invasão do Espaço da Federação por uma Esfera Borg, mas tratava-se do retorno da USS Voyager ao Quadrante Alfa."
+  },
+  {
+    "id": 28,
+    "nome": "USS Checov",
+    "classe": "Springfield",
+    "numero_registro": "NCC-53702",
+    "descricao": "Uma das 39 naves destruídas na batalha Wolf 359 pelos Borgs em 2367."
+  },
+  {
+    "id": 29,
+    "nome": "USS Clarke (Século XXIII)",
+    "classe": "Clarke",
+    "numero_registro": "NCC-1661",
+    "descricao": "A USS Clarke foi destruída em 2256 durante a famosa 'Batalha das Estrelas Binárias' contra uma frota Klingon. Sua exibição foi vista em painel no refeitório da USS Discovery após Michael Burnham chegar a bordo da nave."
+  },
+  {
+    "id": 30,
+    "nome": "SS Columbia",
+    "classe": "NX",
+    "numero_registro": "NX-02",
+    "descricao": "A segunda nave com capacidade de dobra 5 lançada em 2154. A Columbia ajudou a Enterprise após sua nave ser sabotada por forças Klingon e também participou de batalhas contra várias naves Klingon."
+  },
+  {
+    "id": 31,
+    "nome": "USS Constantinople",
+    "classe": "Istanbul",
+    "numero_registro": "NCC-34852",
+    "descricao": "A USS Constantinople sofreu uma falha no casco em 2365 enquanto carregava 2012 colonos e foi salva pela Enterprise-D durante uma missão de resgate."
+  },
+  {
+    "id": 32,
+    "nome": "USS Constellation (Século XXIII)",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1017",
+    "descricao": "Em 2267, a Constellation foi danificada perto do sistema L-374 por uma arma destruidora de planetas. A Enterprise programou sua auto-destruição dentro do destruidor para salvar a tripulação."
+  },
+  {
+    "id": 33,
+    "nome": "USS Constellation",
+    "classe": "Constellation",
+    "numero_registro": "NCC-1974",
+    "descricao": "A USS Constellation foi enviada em 51408.6 para localizar sobreviventes após a destruição da Honshu, junto com a USS Defiant, para resgatar os sobreviventes de sistemas adjacentes."
+  },
+  {
+    "id": 34,
+    "nome": "USS Copernicus",
+    "classe": "Oberth",
+    "numero_registro": "NCC-623",
+    "descricao": "A USS Copernicus estava estacionada na doca espacial quando a sonda alienígena de origem desconhecida causou danos ecológicos à Terra."
+  },
+  {
+    "id": 35,
+    "nome": "USS Defiant (Século XXIII)",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1764",
+    "descricao": "A USS Defiant desapareceu em 2268 perto do território Tholiano devido a uma interfase espacial, causando insanidade em massa na tripulação antes do desaparecimento da nave. A Defiant foi enviada para o 'Universo Espelho', sendo capturada cerca de 100 anos no passado."
+  },
+  {
+    "id": 36,
+    "nome": "USS Defiant",
+    "classe": "Defiant",
+    "numero_registro": "NX-74205",
+    "descricao": "A USS Defiant é uma nave de guerra protótipo para a classe Defiant, comissionada para a Estação Espacial 9. Originalmente desenvolvida para defender a Federação dos Borg, também foi designada para enfrentar o Dominion e os Jem'Hadar. Equipadas com tecnologia avançada, como o sistema de camuflagem romulano, a USS Defiant foi destruída pelos Breens antes da batalha final contra o Dominion."
+  },
+  {
+    "id": 37,
+    "nome": "USS Denver",
+    "classe": "Yorkshire",
+    "numero_registro": "NCC-54927",
+    "descricao": "A USS Denver transportava 517 colonos para o Setor Beloti quando atingiu uma mina gravitacional deixada pelas guerras cardassianas. Com danos severos, a nave caiu no Sistema Mericor, e a USS Enterprise-D foi chamada para resgatar os sobreviventes."
+  },
+  {
+    "id": 38,
+    "nome": "USS Discovery (Século XXIII)",
+    "classe": "Crossfield",
+    "numero_registro": "NCC-1031",
+    "descricao": "A USS Discovery era uma nave científica da Frota Estelar, com a missão de desenvolver e testar a nova tecnologia de motores de esporos. Sob o comando do Capitão Gabriel Lorca, foi utilizada em operações secretas durante a Guerra da Federação contra os Klingons. Em 2258, após confrontos com a Seção 31, a nave foi considerada perdida e seus registros classificados."
+  },
+  {
+    "id": 39,
+    "nome": "USS Drake",
+    "classe": "Wambundu",
+    "numero_registro": "NCC-20381",
+    "descricao": "A USS Drake desapareceu em 2364 no Algomerado Lorenze. Supõe-se que tenha sido destruída por um antigo sistema de armas no planeta Minos. William Riker foi oferecido o comando da Drake, mas recusou para servir a bordo da USS Enterprise-D."
+  },
+  {
+    "id": 40,
+    "nome": "USS Endeavour",
+    "classe": "Nebula",
+    "numero_registro": "NCC-71805",
+    "descricao": "A USS Endeavour serviu durante a guerra civil Klingon, bloqueando os suprimentos romulanos às forças de Duras. Mais tarde, foi designada para interceptar o cubo Borg em 2368. A nave também esteve envolvida em um plano de disseminação de controle Ktarianos na Frota Estelar."
+  },
+  {
+    "id": 41,
+    "nome": "USS Edison (Século XXIII)",
+    "classe": "Edison",
+    "numero_registro": "NCC-1683",
+    "descricao": "A USS Edison foi destruída em 2256 durante a famosa 'Batalha das Estrelas Binárias' contra a frota Klingon. Seu nome foi mencionado a bordo da USS Discovery quando Michael Burnham revisitou o refeitório onde a imagem da nave estava exibida."
+  },
+  {
+    "id": 42,
+    "nome": "SS Enterprise",
+    "classe": "NX",
+    "numero_registro": "NX-01",
+    "descricao": "A primeira nave com capacidade de dobra a levar o nome Enterprise. Utilizada principalmente para exploração espacial no século 22, a nave era equipada com lançadores de mísseis e torpedos fotônicos, além de ser protegida por polarização do casco em vez de escudos convencionais."
+  },
+  {
+    "id": 43,
+    "nome": "USS Enterprise (Século XXIII)",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1701",
+    "descricao": "A USS Enterprise NCC-1701 foi a nave mais famosa da Frota Estelar, comandada inicialmente por Robert April e depois por Christopher Pike e James T. Kirk. A nave participou de diversas missões de exploração, sendo destruída em 2285 por Kirk para evitar sua captura pelos Klingons."
+  },
+  {
+    "id": 44,
+    "nome": "USS Enterprise-A",
+    "classe": "Constitution Refit",
+    "numero_registro": "NCC-1701-A",
+    "descricao": "A USS Enterprise-A foi uma nave refit da classe Constitution, lançada em 2286. Comandada por James T. Kirk, desempenhou um papel importante na resolução da crise no planeta Nimbus III e na conferência de paz no Khitomer."
+  },
+  {
+    "id": 45,
+    "nome": "USS Enterprise-B",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-1701-B",
+    "descricao": "A USS Enterprise-B, comandada por John Harriman, foi a quarta nave a receber esse nome. Durante sua viagem inaugural, a nave salvou membros da tripulação da nave El-Auriana Lakul, mas foi capturada pelo Nexus, resultando na morte do Capitão Kirk."
+  },
+  {
+    "id": 46,
+    "nome": "USS Enterprise-C",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-1701-C",
+    "descricao": "A USS Enterprise-C foi a quinta nave a receber o nome Enterprise, comandada pela capitã Rachel Garrett. Desapareceu em 2344 durante um ataque romulano ao posto avançado Klingon em Narendra III, mas sua viagem no tempo ajudou a evitar uma guerra entre a Federação e o Império Klingon."
+  },
+  {
+    "id": 47,
+    "nome": "USS Enterprise-D",
+    "classe": "Galaxy",
+    "numero_registro": "NCC-1701-D",
+    "descricao": "A USS Enterprise-D, comandada pelo Capitão Jean-Luc Picard, foi uma das naves mais emblemáticas da Frota Estelar. Sua missão era a exploração do espaço profundo e a diplomacia, mas foi severamente danificada pelos Borg e destruída após enfrentar um fenômeno temporal em 2370."
+  },
+  {
+    "id": 48,
+    "nome": "USS Equinox",
+    "classe": "Nova",
+    "numero_registro": "NCC-72381",
+    "descricao": "A USS Equinox foi encontrada pela USS Voyager no Quadrante Delta. Esta nave estelar da classe Nova, sob o comando do Capitão Rudolph Ransom III, foi presa no quadrante pelo mesmo Guardião que retirou a Voyager do Quadrante Alfa. Envolvida em uma guerra contra predadores extra-dimensionais, a Equinox estava à beira da destruição. Sua história inclui um confronto com a USS Voyager, onde ações do Capitão Ransom violaram regulamentos da Frota Estelar, forçando a Capitã Janeway a enfrentá-lo em combate. Após a destruição da nave, os cinco sobreviventes foram incorporados à tripulação da Voyager."
+  },
+  {
+    "id": 49,
+    "nome": "USS Essex",
+    "classe": "Deadalus",
+    "numero_registro": "NCC-173",
+    "descricao": "Sob o comando do setor do almirante Uttan Narsu, a USS Essex foi perdida em 2167 após ser pega em uma tempestade eletromagnética na atmosfera de uma lua do planeta Mab-Bu VI, causada por formas de vida não-corpóreas. A nave foi destruída, com todos os 229 membros mortos. Em 2368, a Enterprise-D encontrou seres que afirmavam ser os membros da Essex, mas na verdade eram os criminosos Ux-Mal que procuravam escapar dominando a Enterprise-D."
+  },
+  {
+    "id": 50,
+    "nome": "USS Europa",
+    "classe": "Europa",
+    "numero_registro": "NCC-1648",
+    "descricao": "A USS Europa, sob o comando do almirante Brett Anderson, participou da 'Batalha das Estrelas Binárias' durante a guerra entre a Federação e o Império Klingon em 2256. Anderson foi chamado para ajudar a negociar um cessar-fogo, mas chegou tarde ao local, sendo atacado e destruído por uma nave Klingon de T'Kuvma."
+  },
+  {
+    "id": 51,
+    "nome": "USS Excalibur",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1664",
+    "descricao": "A USS Excalibur foi altamente danificada em 2268 durante um desastroso exercício de guerra com o supercomputador M-5, resultando na morte de toda a sua tripulação."
+  },
+  {
+    "id": 52,
+    "nome": "USS Excalibur",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-26517",
+    "descricao": "A USS Excalibur serviu durante a guerra civil Klingon, bloqueando o suprimento romulano às forças da família Duras em 2367-2368. Durante essa missão, o comandante William Riker serviu como capitão temporário, com o comandante La Forge como seu primeiro oficial."
+  },
+  {
+    "id": 53,
+    "nome": "USS Excelsior",
+    "classe": "Excelsior",
+    "numero_registro": "NX-2000 / NCC-2000",
+    "descricao": "A USS Excelsior, lançada em 2284, foi uma nave protótipo para a classe Excelsior e serviu sob o comando do capitão Styles para testar o sistema de transdobra. Depois de se tornar operacional, a nave foi comandada por Hikaru Sulu em uma missão de três anos. Em 2293, a Excelsior participou da conferência de paz de Khitomer, junto com a USS Enterprise-A, desmascarando um complô romulano e klingon."
+  },
+  {
+    "id": 54,
+    "nome": "USS Exeter",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1672",
+    "descricao": "A USS Exeter foi encontrada orbitando o planeta Omega IV em 2268, com toda a sua tripulação transformada em cristais desidratados devido a uma arma bacteriológica do planeta."
+  },
+  {
+    "id": 55,
+    "nome": "USS Exeter",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-26632",
+    "descricao": "A USS Exeter foi a nave onde o tenente Tom Paris serviu antes de sua prisão em uma colônia penal. Em 2374, a nave foi designada para a nona frota perto da Estação Deep Space Nine."
+  },
+  {
+    "id": 56,
+    "nome": "USS Farragut",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1647",
+    "descricao": "A Farragut foi o primeiro designamento para o tenente James T. Kirk depois de deixar a Academia da Frota Estelar. Em 2257, 200 membros da Farragut, incluindo o capitão Garrovick, foram mortos pela criatura de nuvem de dikironium, descoberta no planeta Tycho IV."
+  },
+  {
+    "id": 57,
+    "nome": "USS Farragut",
+    "classe": "Nebula",
+    "numero_registro": "NCC-60597",
+    "descricao": "A Farragut junto com outras duas naves participou do resgate da tripulação da USS Enterprise-D que havia caído no planeta Veridian III, em 2371. A Farragut foi destruída por forças klingons em 2373 próximo ao conglomerado Lembatta, quando tentava evacuar colonos da federação em Ajilon Prime durante a ofensiva Klingon."
+  },
+  {
+    "id": 58,
+    "nome": "USS Farragut",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-60597",
+    "descricao": "Sabrina Douglas e seus amigos, Patrick, Jack, e Lauren, todos produtos de engenharia genética, viajaram a bordo da Farragut com falsas pretensões para a Estação Deep Space 9 em 2375. Esta nave da classe Excelsior estava descomissionada, mas após a destruição da Farragut - classe Nebula, foi recolocada na ativa para ajudar na guerra contra o Dominion."
+  },
+  {
+    "id": 59,
+    "nome": "USS Fearless",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-4598",
+    "descricao": "O especialista em propulsão da Federação Kosinski realizou uma série de melhoramentos no sistema de dobra dessa nave. A Fearless transportou Kosinski e seu assistente para a Enterprise-D para realizar melhoramentos similares."
+  },
+  {
+    "id": 60,
+    "nome": "USS Franklin",
+    "classe": "Franklin - NX Protótipo",
+    "numero_registro": "NCC-326",
+    "descricao": "A nave USS Franklin foi lançada dos estaleiros San Francisco Fleet Yards da Terra em algum momento entre os anos de 2145 e 2150. Depois de desaparecer em 2164 enquanto estava em missão no Cinturão de Radiação Gagarin, a nave entrou em uma fenda espacial instável e foi abandonada. Décadas depois, foi redescoberta em Altamid e reparada pela tripulação da USS Enterprise em 2263."
+  },
+  {
+    "id": 61,
+    "nome": "USS Gandhi",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-26632",
+    "descricao": "O tenente Thomas Riker, com alguma ajuda do capitão Picard, conseguiu ser designado para essa nave em 2369, depois de ser resgatado de Nervala IV. Mas em 2371 ele desertou de seu posto a bordo da Gandhi e tornou-se membro dos Maquis."
+  },
+  {
+    "id": 62,
+    "nome": "USS Gagarin",
+    "classe": "Shepard",
+    "numero_registro": "NCC-1309",
+    "descricao": "A nave USS Gagarin (NCC-1309) operava durante a Guerra da Federação com o Império Klingon. A USS Gagarin enfrentou seis naves de guerra klingon e foi destruída depois de perder o motor de dobra durante uma emboscada. A perda das naves resultou em 462 vítimas da Frota Estelar."
+  },
+  {
+    "id": 63,
+    "nome": "USS Ganges",
+    "classe": "Danube",
+    "numero_registro": "NCC-72454",
+    "descricao": "Explorador da Frota designado para a Estação Deep Space 9. A Ganges foi destruída em 2370 por um Cruzador de Munição T'Lani."
+  },
+  {
+    "id": 64,
+    "nome": "USS Gage",
+    "classe": "Apolo",
+    "numero_registro": "NCC-11672",
+    "descricao": "Uma das 39 naves destruídas na batalha Wolf 359 pelos Borgs em 2367."
+  },
+  {
+    "id": 65,
+    "nome": "USS Galaxy",
+    "classe": "Galaxy",
+    "numero_registro": "NCC-70637",
+    "descricao": "A USS Galaxy e outras quatro naves de sua classe estavam nas forças aliadas do quadrante alfa na invasão do espaço cardassiano no sistema Chin'toka em 2374. Esta nave ficou seriamente atingida na batalha."
+  },
+  {
+    "id": 66,
+    "nome": "USS Gettysburg",
+    "classe": "Constellation",
+    "numero_registro": "NCC-3890",
+    "descricao": "A Gettysburg foi comandada pelo capitão Mark Jameson antes de sua promoção para almirante. Ela foi a última nave que Jameson comandou e atracou na Deep Space 9 em 2375 para manutenção."
+  },
+  {
+    "id": 67,
+    "nome": "USS Glenn",
+    "classe": "Crossfield",
+    "numero_registro": "NCC-1030",
+    "descricao": "Nave científica da Frota Estelar encarregada de desenvolver e testar a nova tecnologia de motores de esporos. Foi destruída após um grave acidente envolvendo um Firewall espacial de radiação Hawking durante um salto experimental."
+  },
+  {
+    "id": 68,
+    "nome": "USS Goddard",
+    "classe": "Korolev",
+    "numero_registro": "NCC-59621",
+    "descricao": "A Goddard foi parte da malha de detecção de tachyon durante a guerra civil klingon de 2367-2368 e estava destinada a um encontro com a Enterprise-D."
+  },
+  {
+    "id": 69,
+    "nome": "USS Grissom",
+    "classe": "Oberth",
+    "numero_registro": "NCC-638",
+    "descricao": "Foi designada para investigar o planeta recém-formado Genesis em 2285, mas foi destruída por uma nave klingon tentando tomar o planeta para o Império Klingon."
+  },
+  {
+    "id": 70,
+    "nome": "USS Grissom",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-42857",
+    "descricao": "A USS Grissom estava perto do sistema Sigma Erandi durante a contaminação por tricianato em Beta Agni II em 2366. Foi colocada de prontidão pela USS Enterprise-D."
+  },
+  {
+    "id": 71,
+    "nome": "USS Hathaway",
+    "classe": "Constellation",
+    "numero_registro": "NCC-2593",
+    "descricao": "Lançada em 2285 e descomissionada por volta de 2365, a Hathaway foi temporariamente reativada sob o comando de William Riker para uma simulação de batalha da Frota Estelar."
+  },
+  {
+    "id": 72,
+    "nome": "USS Havana",
+    "classe": "Istanbul",
+    "numero_registro": "NCC-34043",
+    "descricao": "A Enterprise-D deveria se encontrar com a Havana em 2369 após estudar as tempestades de fogo de Bersallis."
+  },
+  {
+    "id": 73,
+    "nome": "USS Hera",
+    "classe": "Nebula",
+    "numero_registro": "NCC-62006",
+    "descricao": "A USS Hera sumiu e presume-se que esteja perdida. A comandante era Silva La Forge, mãe de Geordi La Forge."
+  },
+  {
+    "id": 74,
+    "nome": "USS Hermes",
+    "classe": "Antares",
+    "numero_registro": "NCC-10376",
+    "descricao": "A Hermes serviu no bloqueio do capitão Picard durante a guerra civil klingon de 2367-2368 para evitar a chegada de suprimentos às forças de Duras."
+  },
+  {
+    "id": 75,
+    "nome": "USS Honshu",
+    "classe": "Nebula",
+    "numero_registro": "NCC-60205",
+    "descricao": "Em 2374, a USS Honshu transportou o antigo líder cardassiano Dukat para julgamento, mas foi interceptada e destruída por naves cardassianas."
+  },
+  {
+    "id": 76,
+    "nome": "USS Hood",
+    "classe": "Constitution / Constitution Refit",
+    "numero_registro": "NCC-1703",
+    "descricao": "Uma das naves mais famosas da Frota Estelar, a USS Hood foi designada para várias missões, incluindo a crise da V'ger em 2270. Passou por diversas reformas ao longo dos anos."
+  },
+  {
+    "id": 77,
+    "nome": "USS Hood",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-42296",
+    "descricao": "Comandada por Robert DeSoto, a USS Hood foi envolvida em várias missões, incluindo a preparação para uma possível batalha com os romulanos em 2366."
+  },
+  {
+    "id": 78,
+    "nome": "USS Horatio",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-10532",
+    "descricao": "A USS Horatio foi destruída em 2364 perto do planeta Dytallix B, aparentemente por uma inteligência alienígena desconhecida que tentava infiltrar-se no Comando da Frota Estelar."
+  },
+  {
+    "id": 79,
+    "nome": "USS Horizon",
+    "classe": "Deadalus",
+    "numero_registro": "NCC-176",
+    "descricao": "Uma das primeiras naves de exploração do espaço profundo, a Horizon foi destruída em 2268 após deixar um livro que causou contaminação cultural no planeta Sigma Iotia II."
+  },
+  {
+    "id": 80,
+    "nome": "USS Hornet",
+    "classe": "Renaissance",
+    "numero_registro": "NCC-45231",
+    "descricao": "A Hornet serviu na armada de Picard durante a guerra civil klingon em 2367-2368 para bloquear as naves de suprimentos romulanos."
+  },
+  {
+    "id": 81,
+    "nome": "USS Intrepid",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1831",
+    "descricao": "A USS Intrepid foi destruída por uma criatura-ameba espacial massiva perto do Sistema Gamma 7A em 2268, com sua tripulação composta inteiramente por vulcanos."
+  },
+  {
+    "id": 82,
+    "nome": "USS Intrepid",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-38907",
+    "descricao": "A primeira nave a responder ao sinal de socorro do posto avançado de Khitomer em 2346, a Intrepid ajudou na evacuação após o ataque romulano."
+  },
+  {
+    "id": 83,
+    "nome": "USS Intrepid",
+    "classe": "Intrepid",
+    "numero_registro": "NCC-74600",
+    "descricao": "A USS Intrepid foi o protótipo para a nova Classe de Naves Estelares Intrepid, lançada na última metade do século 24. Em 2379 fazia parte do Grupo de Batalha Omega, deslocado para o setor 1045 em função da ameaça Romulana e Remana de invasão do espaço da Federação."
+  },
+  {
+    "id": 84,
+    "nome": "USS Jenolen",
+    "classe": "Sydney",
+    "numero_registro": "NCC-2010",
+    "descricao": "A Jenolen desapareceu em 2294 e foi descoberta apenas em 2369, quando se soube que a nave havia colidido com uma Esfera de Dyson e que seu único passageiro, o capitão Montgomery Scott, havia sobrevivido por 75 anos suspenso em um transporte modificado."
+  },
+  {
+    "id": 85,
+    "nome": "USS Kearsarge",
+    "classe": "Challenger",
+    "numero_registro": "NCC-57566",
+    "descricao": "O encontro marcado da Kearsarge e a Enterprise-D em 2370 foi adiado por quatro dias, permitindo ao Tenente Wolf e seu filho Alexander assistirem ao Festival de Kot'baval."
+  },
+  {
+    "id": 86,
+    "nome": "USS Kelvin (Século XXIII)",
+    "classe": "Kelvin",
+    "numero_registro": "NCC-0514",
+    "descricao": "A USS Kelvin estava sob o comando do capitão Richard Robau quando foi atacada pela Narada, uma nave romulana, em 2233. Durante o ataque, o capitão Robau foi morto, e seu primeiro oficial, George Kirk, assumiu o comando, morrendo ao salvar a tripulação."
+  },
+  {
+    "id": 87,
+    "nome": "USS Lalo",
+    "classe": "Mediterranean",
+    "numero_registro": "NCC-43837",
+    "descricao": "A Lalo foi perdida em 2367 após encontrar uma nave Borg perto de Zeta Alpha II, depois de um incidente causado por experimentos de tempo e gravidade do Dr. Paul Manheim em Vandor IX."
+  },
+  {
+    "id": 88,
+    "nome": "USS Lakota",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-42768",
+    "descricao": "A USS Lakota tentou impedir a USS Defiant de chegar à Terra com evidências de um golpe militar planejado pelo Almirante Leyton, resultando em uma batalha entre as naves, com doze vítimas."
+  },
+  {
+    "id": 89,
+    "nome": "USS Lantree",
+    "classe": "Miranda",
+    "numero_registro": "NCC-1837",
+    "descricao": "A tripulação da USS Lantree foi morta em 2365 após terem sido expostos a crianças geneticamente modificadas que atacavam qualquer fonte de doenças. A nave foi destruída por um torpedo fôton da USS Enterprise-D."
+  },
+  {
+    "id": 90,
+    "nome": "USS LaSalle",
+    "classe": "Deneva",
+    "numero_registro": "NCC-6203",
+    "descricao": "A USS LaSalle relatou anomalias radioativas no sistema Gamma Arigulon em 2367."
+  },
+  {
+    "id": 91,
+    "nome": "USS Lexington",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1709",
+    "descricao": "A USS Lexington participou dos desastrosos testes do computador M-5 em 2268, que resultaram na morte de 53 tripulantes devido à falha do sistema."
+  },
+  {
+    "id": 92,
+    "nome": "USS Majestic",
+    "classe": "Miranda",
+    "numero_registro": "NCC-31060",
+    "descricao": "A USS Majestic participou da Operação Retorno em 2374, mas foi destruída após sofrer danos na Seção Disco durante uma batalha com a USS Sitak, que escoltava a USS Defiant."
+  },
+  {
+    "id": 93,
+    "nome": "USS Malinche",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-38997",
+    "descricao": "Na data estelar 50485.2, a Malinche patrulhava a zona desmilitarizada perto do Posto Avançado Gamma 7 quando foi atacada e incapacitada por um grupo de Maquis conduzido por Michael Eddington."
+  },
+  {
+    "id": 94,
+    "nome": "USS Merrimac",
+    "classe": "Nebula",
+    "numero_registro": "NCC-61827",
+    "descricao": "A USS Merrimac transportou o Embaixador Sarek e seu pessoal de Legara IV de volta a Vulcano, depois da conferência legariana de 2366. A Merrimac participou na armada de Picard para bloquear os suprimentos romulanos às forças da família Duras durante a guerra civil klingon em 2367-2368."
+  },
+  {
+    "id": 95,
+    "nome": "USS Mekong",
+    "classe": "Danube",
+    "numero_registro": "NCC-72617",
+    "descricao": "Explorador da Frota designado para a Estação Deep Space 9. A Mekong foi destruída em 2371 no desastroso ataque das forças Romulanas e Cardassianas ao planeta natal dos Fundadores."
+  },
+  {
+    "id": 96,
+    "nome": "USS Melbourne",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-62043",
+    "descricao": "A Melbourne estava nas docas da Base Estelar 74 quando os binários sequestraram a USS Enterprise-D. Foi destruída pelos Borgs na batalha de Wolf 359, junto com outras 38 naves da Frota."
+  },
+  {
+    "id": 97,
+    "nome": "USS Monitor",
+    "classe": "Nebula",
+    "numero_registro": "NCC-61826",
+    "descricao": "A Monitor foi enviada à Zona Neutra Romulana na preparação de uma possível batalha depois que a Frota Estelar recebeu avisos de uma reunião de naves romulanas no planeta Nelvana III em 2366."
+  },
+  {
+    "id": 98,
+    "nome": "USS Nautilus",
+    "classe": "Miranda",
+    "numero_registro": "NCC-31910",
+    "descricao": "A USS Nautilus lutou na Guerra Contra o Dominion. No final de 2374, participou da Primeira Batalha de Chin'toka, ajudando a USS Defiant a destruir plataformas orbitais."
+  },
+  {
+    "id": 99,
+    "nome": "USS Nova",
+    "classe": "Nova",
+    "numero_registro": "NCC-73515",
+    "descricao": "A USS Nova foi o protótipo para a nova Classe de Naves Estelares Nova, lançada em 2370, projetada para pesquisas científicas avançadas, sucedendo a Classe Oberth."
+  },
+  {
+    "id": 100,
+    "nome": "USS Orinoco",
+    "classe": "Danube",
+    "numero_registro": "NCC-72905",
+    "descricao": "O explorador Orinoco substituiu o Yangtzee Kiang na Estação Deep Space 9 e foi destruído por um grupo separatista cardassiano sabotando os motores de dobra em 2372."
+  },
+  {
+    "id": 101,
+    "nome": "USS Odyssey",
+    "classe": "Galaxy",
+    "numero_registro": "NCC-71832",
+    "descricao": "A USS Odyssey foi despachada para o Quadrante Gamma para investigar ameaças aos cidadãos da Federação feitas pelos Jem'Hadar, incluindo o seqüestro do Capitão Sisko e Quark. Foi destruída durante um ataque suicida enquanto se retirava do combate."
+  },
+  {
+    "id": 102,
+    "nome": "USS Pegasus",
+    "classe": "Oberth",
+    "numero_registro": "NCC-53847",
+    "descricao": "A USS Pegasus foi a primeira nave a qual o jovem William T. Riker foi designado. A nave foi perdida devido a uma fusão no reator de dobra, sendo encontrada doze anos depois no asteróide Gamma 6-0-1 com evidências de testes secretos de camuflagem por interfase."
+  },
+  {
+    "id": 103,
+    "nome": "USS Phoenix",
+    "classe": "Nebula",
+    "numero_registro": "NCC-65420",
+    "descricao": "A Phoenix conduziu um ataque não autorizado em forças cardassianas perto do Setor 21503. Maxwell, o comandante da Phoenix, foi removido do comando depois do incidente."
+  },
+  {
+    "id": 104,
+    "nome": "USS Portland",
+    "classe": "Chimera",
+    "numero_registro": "NCC-57418",
+    "descricao": "A Portland procurou no setor Agira por Odo e Garak durante o ataque Cardassiano e Romulano ao planeta natal dos Fundadores em 2371."
+  },
+  {
+    "id": 105,
+    "nome": "USS Potemkin (Século XXIII)",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1657",
+    "descricao": "A Potemkin participou do desastroso teste da unidade multitrônica M-5 em 2268 e deveria estudar influências gravitacionais no sistema Beta Aurigae antes que a Dr. Janice Lester, no corpo de Kirk, mudasse o curso da missão."
+  },
+  {
+    "id": 106,
+    "nome": "USS Potemkin",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-18253",
+    "descricao": "William T. Riker serviu na USS Potemkin antes de ser transferido para a USS Enterprise-D. Em 2361, Riker utilizou táticas incomuns para confundir os sensores de um oponente e foi condecorado por sua bravura em uma missão."
+  },
+  {
+    "id": 107,
+    "nome": "USS Prometheus",
+    "classe": "Nebula",
+    "numero_registro": "NCC-71201",
+    "descricao": "A USS Prometheus foi designada para ajudar o Professor Gideon Seyetik em seu projeto para reacender a estrela morta Epsilon 119 em 2370."
+  },
+  {
+    "id": 108,
+    "nome": "USS Prometheus (Protótipo)",
+    "classe": "Prometheus",
+    "numero_registro": "NX-59650",
+    "descricao": "Nave experimental da Federação, roubada por agentes romulanos em 2374, com tecnologias como o EMH Mark 2 e o sistema de ataque Multi-Vector Assault Mode."
+  },
+  {
+    "id": 109,
+    "nome": "USS Reliant",
+    "classe": "Miranda",
+    "numero_registro": "NCC-1864",
+    "descricao": "Em 2285, a USS Reliant foi destruída pela USS Enterprise durante a captura de Ceti Alpha V por Khan Noonien Singh, que se vingava do Almirante Kirk."
+  },
+  {
+    "id": 110,
+    "nome": "USS Relativity (Século XXIX)",
+    "classe": "Wells",
+    "numero_registro": "NCV-474439-G",
+    "descricao": "A USS Relativity foi uma nave temporal do século 29, envolvida na missão de salvar a USS Voyager de um desastre temporal. A nave foi destruída em 2375 por uma disrupção temporal misteriosa."
+  },
+  {
+    "id": 111,
+    "nome": "USS Renegade",
+    "classe": "New Orleans",
+    "numero_registro": "NCC-63102",
+    "descricao": "A USS Renegade foi uma das naves que encontrou a Enterprise-D em Dytallix B quando uma inteligência alienígena tentava tomar o Comando da Frota Estelar em 2364."
+  },
+  {
+    "id": 112,
+    "nome": "USS Republic",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1371",
+    "descricao": "James Kirk e Ben Finney serviram juntos na USS Republic por volta de 2250. O alferes Kirk uma vez descobriu que Finney tinha deixado o circuito da pilha de matéria atômica aberto. Kirk reportou o erro e Finney foi mandado para o fim da lista de promoção. Depois de anos dedicados a Frota Estelar a USS Republic tornou-se uma nave de treinamento dos cadetes da Frota, raramente saindo do sistema solar."
+  },
+  {
+    "id": 113,
+    "nome": "USS Repulse",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-2544",
+    "descricao": "A Dr. Katherine Pulaski serviu a bordo da Repulse antes de ser designada para a USS Enterprise-D em 2365."
+  },
+  {
+    "id": 114,
+    "nome": "USS Rhode Island",
+    "classe": "Nova Modificada",
+    "numero_registro": "NCC-73515",
+    "descricao": "A USS Rhode Island em um possível futuro alterado foi comandada pelo Cap. Harry Kim. Em 2404 tentou impedir a viagem ao passado da Almirante Janeway para alterar a história, não muito boa, do retorno da USS Voyager para o quadrante Alfa. No final acabou defendendo a Nave Auxiliar da Almirante quando foi atacada por duas naves de guerra Klingon tipo Negh'Var."
+  },
+  {
+    "id": 115,
+    "nome": "USS Rutledge",
+    "classe": "New Orleans",
+    "numero_registro": "NCC-57295",
+    "descricao": "A Rutledge serviu sob o comando do capitão Benjamin Maxwell durante a guerra contra os cardassianos. O futuro membro da Enterprise-D Miles O'Brien serviu a bordo da Rutledge como oficial tático. A Rutledge respondeu a um ataque cardassiano no posto avançado da Federação em Setlik III, mas estava atrasada para evitar o massacre. Em 2373, a Rutledge e a Tecumseh receberam ordens de contra atacar as forças Klingon no setor Archanis."
+  },
+  {
+    "id": 116,
+    "nome": "USS Rubicon",
+    "classe": "Danube",
+    "numero_registro": "NCC-72936",
+    "descricao": "A Rubicon serviu na Estação Deep Space 9. Na data estelar 49066.5, Doctor Bashir e o Chefe O'Brien utilizaram a Rubicon para uma bio-pesquisa em Merik III e foram forçados a fazer um pouso de emergência em Bopak III após serem atacados por uma nave Jem'Hadar. Também foi usada para investigar uma rara anomalia subespacial descoberta no espaço da Federação. Pilotada por Jadzia Dax, Bashir e Chefe O'Brien a nave entrou no fenômeno e foi miniaturizada junto com a tripulação a uma altura de cerca de um centímetro."
+  },
+  {
+    "id": 117,
+    "nome": "USS Saratoga (Século XXIII)",
+    "classe": "Miranda",
+    "numero_registro": "NCC-1937",
+    "descricao": "A Saratoga foi desabilitada quando monitorava uma sonda alienígena a caminho da Terra de origem desconhecida enquanto patrulhava a Zona Neutra."
+  },
+  {
+    "id": 118,
+    "nome": "USS Saratoga",
+    "classe": "Miranda II",
+    "numero_registro": "NCC-31911",
+    "descricao": "A Saratoga foi destruída pelos Borg na batalha de Wolf 359 em 2367. Sobreviventes da destruição da Saratoga incluíram o primeiro oficial, tenente-comandante Benjamin Sisko, e seu filho, Jake Sisko, que estavam entre o pessoal da Saratoga que escapou em um salva-vidas."
+  },
+  {
+    "id": 119,
+    "nome": "USS Spector",
+    "classe": "Akira",
+    "numero_registro": "NCC-65549",
+    "descricao": "A USS Spector ajudou a nave USS Prometheus contra os Romulanos em 2374."
+  },
+  {
+    "id": 120,
+    "nome": "USS Stargazer",
+    "classe": "Constellation",
+    "numero_registro": "NCC-2893",
+    "descricao": "A USS Stargazer foi comandada pelo Capitão Picard antes da sua designação para a USS Enterprise-D (2333 a 2355). A nave foi quase destruída perto do sistema estelar Zeta Maxia por uma nave que depois soube-se que era uma nave ferengi."
+  },
+  {
+    "id": 121,
+    "nome": "USS Shenandoah",
+    "classe": "Danube",
+    "numero_registro": "NCC-73094",
+    "descricao": "Explorador da Frota designado para a Estação Deep Space 9. Em 2374, o tenente comandante Wolf e Jadzia Dax lavaram a Shenandoah em missão para tomar um Defletor Cardassiano de uma base do Dominion no planeta Soukara, mas a missão falhou."
+  },
+  {
+    "id": 122,
+    "nome": "USS Shenzhou",
+    "classe": "Walker",
+    "numero_registro": "NCC-1227",
+    "descricao": "A USS Shenzhou foi uma nave espacial da Federação, classe Walker, operada pela Frota Estelar em meados do século 23. Foi destruída durante a 'Batalha das Estrelas Binárias', em 2256, após ser atacada pela frota Klingon."
+  },
+  {
+    "id": 123,
+    "nome": "USS ShirKahr",
+    "classe": "Miranda",
+    "numero_registro": "NCC-31095",
+    "descricao": "A USS ShirKahr lutou em diversas frentes na Guerra Contra o Dominion, sendo destruída na Primeira Batalha de Chin'toka em 2374, após ser atingida por tiros das plataformas orbitais."
+  },
+  {
+    "id": 124,
+    "nome": "USS Shran",
+    "classe": "Shran",
+    "numero_registro": "NCC-1413",
+    "descricao": "A USS Shran era uma nave espacial da Federação, classe Shran, destruída durante o confronto com a frota Klingon na 'Batalha das Estrelas Binárias' em 2256."
+  },
+  {
+    "id": 125,
+    "nome": "USS Sutherland",
+    "classe": "Nebula",
+    "numero_registro": "NCC-72015",
+    "descricao": "A USS Sutherland foi comandada pelo Comandante Data em 2367-2368 durante a guerra civil Klingon, bloqueando os suprimentos romulanos. Posteriormente, foi parte da frota sediada na Estação Deep Space 9."
+  },
+  {
+    "id": 126,
+    "nome": "USS Thomas Paine",
+    "classe": "New Orleans",
+    "numero_registro": "NCC-65530",
+    "descricao": "A USS Thomas Paine foi uma das quatro naves que encontrou uma inteligência alienígena tentando controlar a Frota Estelar em 2364, no planeta Dytallix B."
+  },
+  {
+    "id": 127,
+    "nome": "USS Thunderchild",
+    "classe": "Akira",
+    "numero_registro": "NCC-63549",
+    "descricao": "A USS Thunderchild esteve entre as naves que defenderam a Federação durante a segunda incursão dos Borgs em 2373, no setor 001."
+  },
+  {
+    "id": 128,
+    "nome": "USS Tian An Men",
+    "classe": "Miranda",
+    "numero_registro": "NCC-21382",
+    "descricao": "A USS Tian An Men serviu na guerra civil Klingon, bloqueando suprimentos romulanos. Desapareceu em 2373, presumivelmente destruída pelas forças do Dominion."
+  },
+  {
+    "id": 129,
+    "nome": "USS T'Kumbra",
+    "classe": "Nebula",
+    "numero_registro": "NCC-61882",
+    "descricao": "A USS T'Kumbra foi uma nave da Federação composta inteiramente por Vulcanos. Participou da Guerra Dominion e foi uma das naves que visitou Deep Space 9 para reparos em 2375."
+  },
+  {
+    "id": 130,
+    "nome": "USS T'Plana-Hath",
+    "classe": "T'Plana-Hath",
+    "numero_registro": "NCC-1004",
+    "descricao": "A USS T'Plana-Hath foi destruída durante a 'Batalha das Estrelas Binárias' em 2256, assim como outras naves da mesma classe, incluindo a USS Dana e a USS Ride."
+  },
+  {
+    "id": 131,
+    "nome": "T'Pau",
+    "classe": "Apollo",
+    "numero_registro": "NSP-17938",
+    "descricao": "A T'Pau foi descomissionada em 2364 e enviada ao depósito em órbita de Qualor II. Em 2368, foi usada pelos romulanos para transportar tropas durante uma tentativa de invasão de Vulcano."
+  },
+  {
+    "id": 132,
+    "nome": "USS Trial",
+    "classe": "Miranda",
+    "numero_registro": "NCC-1948",
+    "descricao": "A USS Trial fez parte da Frota do Almirante Hastur em 2372, protegendo a Estação Deep Space 9 de um ataque Klingon. Também esteve presente na Operação Retorno para a retomada da estação."
+  },
+  {
+    "id": 133,
+    "nome": "USS Trieste",
+    "classe": "Merced",
+    "numero_registro": "NCC-37124",
+    "descricao": "A USS Trieste esteve estacionada perto da Base Estelar 74 e não pôde ajudar quando a Enterprise-D foi roubada em 2364. Data serviu a bordo antes de ser designado para a Enterprise-D."
+  },
+  {
+    "id": 134,
+    "nome": "USS Tripoli",
+    "classe": "Hokule'a",
+    "numero_registro": "NCC-19386",
+    "descricao": "A USS Tripoli foi responsável pela descoberta de Data em 2338 nas ruínas da colônia da Federação em Omicron Theta. Mais tarde foi descomissionada e enviada ao depósito Zed-15."
+  },
+  {
+    "id": 135,
+    "nome": "SS Tsiolkovski",
+    "classe": "Oberth",
+    "numero_registro": "NCC-53911",
+    "descricao": "A SS Tsiolkovski foi uma nave da Federação que sofreu um surto de vírus Psi 2000 em 2364, que matou toda a tripulação durante uma missão de análise do colapso de uma estrela vermelha supergigante."
+  },
+  {
+    "id": 136,
+    "nome": "USS Valiant",
+    "classe": "Daedalus",
+    "numero_registro": "NCC-1223",
+    "descricao": "Nave da Federação que contatou o planeta Eminiar VII em 2217 e foi destruída. Declarada casualidade na guerra de 500 anos entre os planetas Eminiar VII e Vendikar."
+  },
+  {
+    "id": 137,
+    "nome": "USS Valiant",
+    "classe": "Defiant",
+    "numero_registro": "NCC-74210",
+    "descricao": "Em 2374, sob o comando do Cadete Tim Watter, foi destruída em uma missão suicida contra uma nave de guerra do Dominion. Anteriormente comandada pelo Capitão Ramirez."
+  },
+  {
+    "id": 138,
+    "nome": "USS Valdemar",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-26198",
+    "descricao": "Designada para a zona desmilitarizada Federação-Cardássia em 2370 para prender o oficial Miles O'Brien, injustamente acusado."
+  },
+  {
+    "id": 139,
+    "nome": "USS Vengeance",
+    "classe": "Dreadnought",
+    "numero_registro": "(sem número)",
+    "descricao": "Construída secretamente pela Seção 31 na linha temporal 'Kelvin Timeline', foi projetada por Khan Noonien Singh. Destruída em 2259 em uma colisão com a Terra."
+  },
+  {
+    "id": 140,
+    "nome": "USS Venture",
+    "classe": "Excelsior",
+    "numero_registro": "NCC-2011",
+    "descricao": "Lançada em 2292, serviu na fronteira com a Zona Neutra Romulana até 2355, sob o comando do Capitão Owen Paris."
+  },
+  {
+    "id": 141,
+    "nome": "USS Venture",
+    "classe": "Galaxy",
+    "numero_registro": "NCC-71854",
+    "descricao": "Participou de importantes missões durante a guerra contra o Dominion. Atualizada em 2376 e partiu para uma missão de exploração no quadrante alfa."
+  },
+  {
+    "id": 142,
+    "nome": "SS Vico",
+    "classe": "Oberth",
+    "numero_registro": "NAR-18834",
+    "descricao": "Destruída em 2368 enquanto explorava um aglomerado negro. Apenas um sobrevivente foi resgatado pela USS Enterprise-D."
+  },
+  {
+    "id": 143,
+    "nome": "USS Victory",
+    "classe": "Constellation",
+    "numero_registro": "NCC-9754",
+    "descricao": "Designada para Tarchannen III em 2362. Parte da tripulação foi infectada com DNA alienígena, resultando em sérias consequências anos depois."
+  },
+  {
+    "id": 144,
+    "nome": "USS Volga",
+    "classe": "Danube",
+    "numero_registro": "NCC-73196",
+    "descricao": "Explorador designado para Deep Space 9. Em 2372, sofreu danos em uma missão médica-botânica em Torad IV."
+  },
+  {
+    "id": 145,
+    "nome": "USS Voyager",
+    "classe": "Intrepid",
+    "numero_registro": "NCC-74656",
+    "descricao": "Perdida no quadrante Delta em 2371, iniciou a jornada de volta à Terra sob o comando da Capitã Kathryn Janeway."
+  },
+
+  {
+    "id": 146,
+    "nome": "USS Wellington",
+    "classe": "Niagara",
+    "numero_registro": "NCC-28473",
+    "descricao": "A Wellington estava sob uma melhoria do sistema de computadores pelos técnicos Binários na Base Estelar 74 em 2364. Ro Laren serviu a bordo da Wellington até que ela fosse considerada culpada por um incidente no qual oito pessoas foram mortas por causa da falha de Ro em obedecer ordens."
+  },
+  {
+    "id": 147,
+    "nome": "USS Yamato",
+    "classe": "Galaxy",
+    "numero_registro": "NCC-71807",
+    "descricao": "A USS Yamato, uma nave-irmã da USS Enterprise-D, foi destruída por um antigo computador iconiano que causou falha no sistema de contenção de anti-matéria, resultando na explosão da nave."
+  },
+  {
+    "id": 148,
+    "nome": "USS Yamaguchi",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-26510",
+    "descricao": "A Yamaguchi estava entre as naves destruídas na batalha de Wolf 359 contra a primeira incursão de um cubo Borg no espaço da Federação em 2367."
+  },
+  {
+    "id": 149,
+    "nome": "USS Yangtzee Kiang",
+    "classe": "Danube",
+    "numero_registro": "NCC-72453",
+    "descricao": "Um dos três exploradores designados para a Estação Deep Space 9. Foi destruído após cair numa colônia penal numa lua do Quadrante Gamma, resultando na morte da líder religiosa bajoriana Kai Opaka."
+  },
+  {
+    "id": 150,
+    "nome": "USS Yeager (Século XXIII)",
+    "classe": "Yeager",
+    "numero_registro": "NCC-1437",
+    "descricao": "Em 2256, a USS Yeager foi desativada durante a Batalha das Estrelas Binárias após ataque Klingon, onde diversos tripulantes foram capturados."
+  },
+  {
+    "id": 151,
+    "nome": "USS Yeager",
+    "classe": "Sauber",
+    "numero_registro": "NCC-61947",
+    "descricao": "Estava entre as naves que defenderam o setor 001 da segunda grande incursão dos Borgs no espaço da Federação em 2373."
+  },
+  {
+    "id": 152,
+    "nome": "USS Yorktown",
+    "classe": "Constitution",
+    "numero_registro": "NCC-1717",
+    "descricao": "A Yorktown foi desabilitada pela sonda alienígena em 2286. Depois, foi reparada e rebatizada de Enterprise (NCC-1701-A)."
+  },
+  {
+    "id": 153,
+    "nome": "USS Yosemite",
+    "classe": "Oberth",
+    "numero_registro": "NCC-19002",
+    "descricao": "Severamente danificada durante testes de um rio de plasma no Setor Igo em 2369, resultando na morte de pelo menos um tripulante."
+  },
+  {
+    "id": 154,
+    "nome": "USS Zapata",
+    "classe": "Surak",
+    "numero_registro": "NCC-33184",
+    "descricao": "A Enterprise-D deveria encontrar-se com a Zapata após sua missão na nebulosa Gamma Erandi em 2366."
+  },
+  {
+    "id": 155,
+    "nome": "USS Zhukov",
+    "classe": "Ambassador",
+    "numero_registro": "NCC-26136",
+    "descricao": "Encontrou a Enterprise-D em 2367 para transferir a Embaixadora T'Pel. Transferiu equipes científicas para a missão no Aglomerado Phoenix em 2368."
+  }
+]

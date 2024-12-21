@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nome": "Vulcano",
+    "sistemaEstelar": "40 Eridani",
+    "populacao": "6 bilhões",
+    "descricao": "O planeta natal dos vulcanos, conhecido por seu clima árido e a sociedade baseada em lógica.",
+    "habitantesNotaveis": ["Spock", "Sarek", "T'Pol"],
+    "aparicoes": ["Star Trek: A Série Clássica", "Star Trek (2009)"]
+  },
+  {
+    "id": 2,
+    "nome": "Qo'noS",
+    "sistemaEstelar": "Beta Quadrant",
+    "populacao": "8 bilhões",
+    "descricao": "O planeta natal dos Klingons, um mundo de guerreiros e cultura marcial.",
+    "habitantesNotaveis": ["Kor", "Kang"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica",
+      "Star Trek VI: A Terra Desconhecida"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Terra",
+    "sistemaEstelar": "Sistema Solar",
+    "populacao": "9 bilhões",
+    "descricao": "O planeta natal dos humanos e a sede da Federação Unida de Planetas.",
+    "habitantesNotaveis": ["James T. Kirk", "Leonard McCoy"],
+    "aparicoes": [
+      "Star Trek: A Série Clássica",
+      "Star Trek IV: A Volta para Casa"
+    ]
+  }
+]
