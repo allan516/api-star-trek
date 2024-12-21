@@ -6,12 +6,12 @@ import {
 
 export const getCharacters = async (req: Request, res: Response) => {
   const response = await getCharacterServices();
-  res.status(response.statusCode).json(response.body);
+  return res.status(response.statusCode).json(response.body);
 };
 
 export const getCharactersById = async (req: Request, res: Response) => {
   const id = parseInt(req.params.id);
   const response = await getCharacterByIdServices(id);
 
-  res.status(response.statusCode).json(response.body);
+  return res.status(response.statusCode).json(response.body);
 };
