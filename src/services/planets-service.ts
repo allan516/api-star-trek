@@ -3,11 +3,14 @@ import { getPlanetsRepository } from "../repositories/planets-respository";
 import * as HttpResponse from "../utils/http-response";
 
 export const getPlanetsService = async (): Promise<HttpModel> => {
-  const data = await getPlanetsRepository();
+  try {
+    const data = await getPlanetsRepository();
 
-  if (data !== undefined) {
-    return HttpResponse.ok(data);
-  } else {
-    return HttpResponse.notFound();
+    if (data !== undefined) return await HttpResponse.ok(data);
+
+    return await HttpResponse.notFound();
+  } catch (error) {
+    console.log(error);
+    return await HttpResponse.internalServerError();
   }
 };
