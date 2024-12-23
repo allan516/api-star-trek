@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "civilizacao": "Andorianos",
+    "planeta": {
+      "nome": "Andoria",
+      "sistemasolar": {
+        "estrelas": ["Procyon A", "Procyon B"],
+        "classificacaoestrela": "F5V-IV (Binária Classe F)"
+      },
+      "distancia": {
+        "terra": "11 anos-luz",
+        "vulcano": "6,6 anos-luz"
+      },
+      "geografia": {
+        "tipo": "Lua Classe M",
+        "clima": "Gelado",
+        "regioes": [
+          "Região Norte - Sub-raça Aenar",
+          "Cidades subterrâneas interconectadas por túneis"
+        ]
+      },
+      "populacao": {
+        "total": "90 milhões",
+        "picohistorico": "Bilhões",
+        "taxanatalidade": "Em declínio"
+      }
+    },
+    "fisiologia": {
+      "aparencia": {
+        "pele": "Azul",
+        "cabelo": "Branco",
+        "alturamedia": "1,7 a 2,1 metros",
+        "antenas": "Sensíveis a temperatura e pressão"
+      },
+      "caracteristicas": {
+        "forca": "Alta devido à densidade óssea e muscular",
+        "corproteica": "HZB-41 (semelhante à melanina humana)",
+        "placascartilaginosas": "Atuam como exoesqueleto parcial"
+      },
+      "sentidos": {
+        "visao": "Melhor que a humana",
+        "olfato": "Altamente apurado",
+        "antenas": "Detecção ambiental e expressão de emoções"
+      },
+      "antenas": {
+        "funcoes": [
+          "Detectar temperatura e pressão",
+          "Expressar emoções",
+          "Sentido de cheiro melhorado"
+        ],
+        "regeneracao": "Demora cerca de 9 meses em caso de perda",
+        "importanciacultural": "Perda é vista como mutilação grave"
+      }
+    },
+    "relacionamentos": {
+      "federacao": "Membro da Federação Unida dos Planetas",
+      "conflitos": "Histórico de rivalidade com os vulcanos"
+    }
+  },
+
+  {
+    "id": 2,
+    "civilizacao": "Bajorianos",
+    "planeta": {
+      "nome": "Bajor",
+      "sistemasolar": {
+        "estrelas": ["Estrela Bajoriana"],
+        "classificacaoestrela": "Classe G"
+      },
+      "distancia": {
+        "terra": "20 anos-luz",
+        "vulcano": "25 anos-luz"
+      },
+      "geografia": {
+        "tipo": "Classe M",
+        "clima": "Temperado",
+        "regioes": ["Campos Bajorianos", "Península de Perikian"]
+      },
+      "populacao": {
+        "total": "6 bilhões",
+        "picohistorico": "8 bilhões",
+        "taxanatalidade": "Alta"
+      }
+    },
+    "fisiologia": {
+      "aparencia": {
+        "pele": "Média tonalidade",
+        "cabelo": "Varia entre preto, castanho e loiro",
+        "alturamedia": "1,75 metros",
+        "antenas": "Não possuem"
+      },
+      "caracteristicas": {
+        "forca": "Força humana, ligeiramente acima",
+        "corproteica": "Similar à humana",
+        "placascartilaginosas": "Presentes no crânio"
+      },
+      "sentidos": {
+        "visao": "Visão aguçada, adaptada para a luz intensa",
+        "olfato": "Semelhante aos humanos",
+        "antenas": "Não possuem"
+      }
+    },
+    "relacionamentos": {
+      "federacao": "Aliados da Federação Unida dos Planetas, mas não membros plenos",
+      "conflitos": "Ocupação Cardassiana, Conflitos internos com radicais"
+    }
+  }
+]
