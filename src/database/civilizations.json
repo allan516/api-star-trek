@@ -12,14 +12,6 @@
         "terra": "11 anos-luz",
         "vulcano": "6,6 anos-luz"
       },
-      "geografia": {
-        "tipo": "Lua Classe M",
-        "clima": "Gelado",
-        "regioes": [
-          "Região Norte - Sub-raça Aenar",
-          "Cidades subterrâneas interconectadas por túneis"
-        ]
-      },
       "populacao": {
         "total": "90 milhões",
         "picohistorico": "Bilhões",
@@ -33,30 +25,13 @@
         "alturamedia": "1,7 a 2,1 metros",
         "antenas": "Sensíveis a temperatura e pressão"
       },
-      "caracteristicas": {
-        "forca": "Alta devido à densidade óssea e muscular",
-        "corproteica": "HZB-41 (semelhante à melanina humana)",
-        "placascartilaginosas": "Atuam como exoesqueleto parcial"
-      },
       "sentidos": {
         "visao": "Melhor que a humana",
         "olfato": "Altamente apurado",
         "antenas": "Detecção ambiental e expressão de emoções"
-      },
-      "antenas": {
-        "funcoes": [
-          "Detectar temperatura e pressão",
-          "Expressar emoções",
-          "Sentido de cheiro melhorado"
-        ],
-        "regeneracao": "Demora cerca de 9 meses em caso de perda",
-        "importanciacultural": "Perda é vista como mutilação grave"
       }
     },
-    "relacionamentos": {
-      "federacao": "Membro da Federação Unida dos Planetas",
-      "conflitos": "Histórico de rivalidade com os vulcanos"
-    }
+    "historia": " Os Andorianos são uma raça de humanoides bipedais, sua história é marcada por um desenvolvimento tecnológico avançado e uma forte presença na Federação Unida dos Planetas. Eles são conhecidos por suas habilidades sensoriais aprimoradas, especialmente através das antenas, e por sua cultura que valoriza a força e a adaptabilidade em ambientes extremos."
   },
 
   {
@@ -72,11 +47,6 @@
         "terra": "20 anos-luz",
         "vulcano": "25 anos-luz"
       },
-      "geografia": {
-        "tipo": "Classe M",
-        "clima": "Temperado",
-        "regioes": ["Campos Bajorianos", "Península de Perikian"]
-      },
       "populacao": {
         "total": "6 bilhões",
         "picohistorico": "8 bilhões",
@@ -90,20 +60,12 @@
         "alturamedia": "1,75 metros",
         "antenas": "Não possuem"
       },
-      "caracteristicas": {
-        "forca": "Força humana, ligeiramente acima",
-        "corproteica": "Similar à humana",
-        "placascartilaginosas": "Presentes no crânio"
-      },
       "sentidos": {
         "visao": "Visão aguçada, adaptada para a luz intensa",
         "olfato": "Semelhante aos humanos",
         "antenas": "Não possuem"
       }
     },
-    "relacionamentos": {
-      "federacao": "Aliados da Federação Unida dos Planetas, mas não membros plenos",
-      "conflitos": "Ocupação Cardassiana, Conflitos internos com radicais"
-    }
+    "historia": "Os Bajorianos são uma raça de humanoides, sua história é marcada por séculos de opressão, principalmente pela ocupação Cardassiana, o que moldou uma cultura resiliente e profundamente espiritual. Bajorianos são conhecidos por sua forte conexão com a fé e tradição, sendo membros-chave da aliança com a Federação Unida dos Planetas, embora ainda não sejam membros plenos. "
   }
 ]

@@ -11,11 +11,6 @@ export interface civilizationsmodel {
       terra: string;
       vulcano: string;
     };
-    geografia: {
-      tipo: string;
-      clima: string;
-      regioes: string[];
-    };
     populacao: {
       total: string;
       picohistorico: string;
@@ -29,19 +24,11 @@ export interface civilizationsmodel {
       alturamedia: string;
       antenas: string;
     };
-    caracteristicas: {
-      forca: string;
-      corproteica: string;
-      placascartilaginosas: string;
-    };
     sentidos: {
       visao: string;
       olfato: string;
       antenas: string;
     };
   };
-  relacionamentos: {
-    federacao: string;
-    conflitos: string;
-  };
+  historia: string;
 }
