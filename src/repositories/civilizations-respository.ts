@@ -9,3 +9,8 @@ export const getCivilizationsRepository = async (): Promise<
   const data = JSON.parse(await database);
   return data;
 };
+
+export const getCivilizationsByIdRepository = async (id: number) => {
+  const data = JSON.parse(await database);
+  return data[id - 1];
+};

@@ -11,5 +11,6 @@ router.get("/characters/:id", characterController.getCharactersById);
 router.get("/ships", shipsController.getAllShips);
 router.get("/ships/:id", shipsController.getShipsById);
 router.get("/civilizations", civilizationController.getAllCivilizations);
+router.get("/civilizations/:id", civilizationController.getCivilizationsById);
 
 export default router;
