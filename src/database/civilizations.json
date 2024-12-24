@@ -2,70 +2,249 @@
   {
     "id": 1,
     "civilizacao": "Andorianos",
-    "planeta": {
-      "nome": "Andoria",
-      "sistemasolar": {
-        "estrelas": ["Procyon A", "Procyon B"],
-        "classificacaoestrela": "F5V-IV (Binária Classe F)"
-      },
-      "distancia": {
-        "terra": "11 anos-luz",
-        "vulcano": "6,6 anos-luz"
-      },
-      "populacao": {
-        "total": "90 milhões",
-        "picohistorico": "Bilhões",
-        "taxanatalidade": "Em declínio"
-      }
-    },
-    "fisiologia": {
-      "aparencia": {
-        "pele": "Azul",
-        "cabelo": "Branco",
-        "alturamedia": "1,7 a 2,1 metros",
-        "antenas": "Sensíveis a temperatura e pressão"
-      },
-      "sentidos": {
-        "visao": "Melhor que a humana",
-        "olfato": "Altamente apurado",
-        "antenas": "Detecção ambiental e expressão de emoções"
-      }
-    },
-    "historia": " Os Andorianos são uma raça de humanoides bipedais, sua história é marcada por um desenvolvimento tecnológico avançado e uma forte presença na Federação Unida dos Planetas. Eles são conhecidos por suas habilidades sensoriais aprimoradas, especialmente através das antenas, e por sua cultura que valoriza a força e a adaptabilidade em ambientes extremos."
+    "planeta": "O planeta é Andoria, uma lua gelada do sistema binário Procyon, localizado a 11 anos-luz da Terra e 6,6 anos-luz de Vulcano. O sistema é formado pelas estrelas Procyon A (classe F5V-IV) e Procyon B (classe B). Andoria orbita o planeta dos anéis Andor. É conhecida por suas temperaturas extremamente baixas, com parte de sua superfície sempre coberta de gelo. As cidades são majoritariamente subterrâneas, conectadas por túneis geotérmicos. População atual: cerca de 30 milhões, em contraste com um pico histórico de bilhões. Taxa de natalidade em declínio.",
+    "fisiologia": "Os Andorianos possuem uma combinação de características mamíferas e insetoides. São humanoides com pele azul, cabelo branco e antenas funcionais que detectam variações de temperatura e pressão. Existem três subgrupos principais: Thallassan, Talish e Bish'ee, além dos Aenar, uma sub-raça albina, telepática e pacifista. Eles possuem densidade óssea e muscular elevadas, o que lhes confere força física notável. As antenas também expressam emoções e desempenham papel central em sua cultura.",
+    "historia": "Os Andorianos têm uma longa história de conflitos com os Vulcanos, mas são membros ativos da Federação Unida dos Planetas. Sua capital, Laibok, abriga a prestigiada Academia de Arte Andoriana. O planeta também é conhecido por seus monumentos como a 'Ala de Heróis', além de reservas naturais e parques como o Parque Therin. Culturalmente, os Andorianos valorizam a força, honra e conexão com sua terra natal."
   },
 
   {
     "id": 2,
-    "civilizacao": "Bajorianos",
-    "planeta": {
-      "nome": "Bajor",
-      "sistemasolar": {
-        "estrelas": ["Estrela Bajoriana"],
-        "classificacaoestrela": "Classe G"
-      },
-      "distancia": {
-        "terra": "20 anos-luz",
-        "vulcano": "25 anos-luz"
-      },
-      "populacao": {
-        "total": "6 bilhões",
-        "picohistorico": "8 bilhões",
-        "taxanatalidade": "Alta"
-      }
-    },
-    "fisiologia": {
-      "aparencia": {
-        "pele": "Média tonalidade",
-        "cabelo": "Varia entre preto, castanho e loiro",
-        "alturamedia": "1,75 metros",
-        "antenas": "Não possuem"
-      },
-      "sentidos": {
-        "visao": "Visão aguçada, adaptada para a luz intensa",
-        "olfato": "Semelhante aos humanos",
-        "antenas": "Não possuem"
-      }
-    },
-    "historia": "Os Bajorianos são uma raça de humanoides, sua história é marcada por séculos de opressão, principalmente pela ocupação Cardassiana, o que moldou uma cultura resiliente e profundamente espiritual. Bajorianos são conhecidos por sua forte conexão com a fé e tradição, sendo membros-chave da aliança com a Federação Unida dos Planetas, embora ainda não sejam membros plenos. "
+    "civilizacao": "Bajoriana",
+    "planeta": "Bajor é considerado um planeta com governo independente aliado da Federação Unida dos Planetas. Está localizado no Sistema Estelar Bajor, composto por 14 planetas, sendo Bajor um planeta classe M, o maior do sistema. O sistema é próximo à fronteira com o espaço Cardassiano.",
+    "fisiologia": "Os Bajorianos são humanoides, bípedes e mamíferos, com narizes que possuem camadas de pele acumulada na parte superior. O coração dos Bajorianos tem um arranjo interno refletido em um eixo horizontal. Eles também são reconhecidos pelos brincos cerimoniais que representam posição social e religiosa.",
+    "historia": "Os Bajorianos possuem uma história de 500.000 anos. Foram ocupados pelos Cardassianos entre 2339 e 2369, período que devastou o planeta. Após a ocupação, Bajor conseguiu se reerguer com ajuda da Federação Unida dos Planetas e a descoberta de uma Fenda Espacial próxima, que impulsionou a economia e restaurou a fé dos Bajorianos em sua religião."
+  },
+
+  {
+    "id": 3,
+    "civilizacao": "Ba'ku e Son'a",
+    "planeta": "O planeta Ba'ku pertence aos Ba'kus. Está localizado dentro de uma densa nebulosa estelar chamada Brian Path, que acredita-se ser os restos de uma antiga estrela ou planeta. A nebulosa impede o uso de motores de dobra, limitando a locomoção a motores de impulso. O planeta é protegido por anéis que bloqueiam raios nocivos e emitem radiação metafísica, garantindo juventude eterna aos Ba'kus. Sua população atual é de aproximadamente 600 indivíduos. Informações sobre a população histórica e taxa de natalidade não estão disponíveis.",
+    "fisiologia": "Os Ba'kus são humanoides bípedes semelhantes aos terrestres. Eles param de envelhecer ao atingir cerca de 30 anos devido à radiação metafísica do planeta. Já os Son'as, descendentes dos Ba'kus, têm aparência desagradável devido ao envelhecimento rápido e degeneração celular, mitigados por métodos paliativos como esticamento de pele e sucção de toxinas. Enquanto os Ba'kus vivem de forma simples e bucólica, os Son'as são tecnologicamente avançados, militaristas e dependem de tecnologias para sobrevivência.",
+    "historia": "Os Ba'kus e Son'as compartilham uma origem comum. Há 300 anos, os Ba'kus encontraram o planeta Ba'ku e decidiram abandonar a tecnologia para viver de forma simples. Alguns se rebelaram e partiram, formando os Son'as, que envelheceram rapidamente fora do planeta. Os Son'as tentaram tomar o planeta em busca de rejuvenescimento, mas foram repelidos pela USS Enterprise-E em 2375. Os Son'as também conquistaram duas raças, Ellora e Tarloac, para trabalhos braçais, e mantêm acordos ilícitos, como o uso de armas subespaciais banidas."
+  },
+
+  {
+    "id": 4,
+    "civilizacao": "Betazóides",
+    "planeta": "Betazed (Cyndriel) é o lar dos betazóides, localizado no quadrante Alfa. É o 5º planeta de um sistema solar com oito planetas. Betazed é um planeta Classe M, muito parecido com a Terra, com grandes oceanos.",
+    "fisiologia": "Os betazóides têm uma aparência que se assemelha bastante aos humanos, mas com olhos totalmente pretos, sem cor de íris. Eles possuem habilidades telepáticas que variam de indivíduo para indivíduo, sendo uma habilidade natural. A maioria desenvolve essa habilidade na adolescência, mas alguns têm telepatia tão intensa que isso pode causar problemas mentais. Seus corpos são flexíveis, com esqueletos semelhantes ao de gatos. O cérebro contém um paracortex, responsável pela telepatia, e um neurotransmissor chamado psilosynine. As betazóides fêmeas são férteis por grande parte de suas vidas, podendo engravidar aos 50, 60 ou até 70 anos. A gestação dura cerca de 10 meses.",
+    "historia": "Os betazóides são membros da Federação Unida dos Planetas e são conhecidos por sua natureza pacífica e pelo desenvolvimento das artes, literatura e filosofia. Eles não utilizam armas ou sistemas de defesa e o sistema de defesa planetário se mostrou antiquado quando enfrentaram o Dominion em 2374. Sua sociedade é estruturada em classes, com a nobreza dividida em Casas. As mulheres geralmente ocupam cargos de liderança, e as Casas são numeradas e baseadas em valores ancestrais. A 1ª Casa de Betazed é a Casa da Honestidade e Verdade. O planeta e sua sociedade seguem tradições cerimoniais e formais, e a discriminação de gênero é rara, apesar de os homens serem vistos como menos inteligentes e merecedores do que as mulheres. Betazéides notáveis incluem Deanna Troi, Lwaxana Troi, Tam Elbrum e Lon Suder."
+  },
+
+  {
+    "id": 5,
+    "civilizacao": "Bolianos",
+    "planeta": "Bolarus IX é o planeta natal dos Bolianos, localizado no quadrante Beta da galáxia. O planeta possui três continentes principais e várias ilhas, com uma grande porção da superfície formada por oceanos e planícies de inundação. Bolarus IX é predominantemente quente, com uma temperatura média de 22°C, e é afetado por tempestades e monções anuais. A característica geográfica mais marcante do planeta é a tempestade elétrica chamada 'The Senden Funnel', que persiste por muitos anos sem explicação.",
+    "fisiologia": "Os Bolianos têm pele azul, variando de verde-azulado a azul intenso, com uma protuberância cartilaginosa vertical que corre ao longo de suas cabeças e rostos. Eles têm sangue azul, com uma química sanguínea distinta, que torna transfusões com outras espécies, como os Vulcanos, fatais. Sua anatomia cerebral é afetada pela protuberância craniana, resultando em funções cerebrais divididas e especialização em áreas como arte e ciência. A maioria dos Bolianos é calva, embora algumas fêmeas possam ter cabelo.",
+    "historia": "Os Bolianos viveram em nações autossuficientes até o século 22, quando os avanços tecnológicos permitiram maior contato entre as potências continentais, gerando disputas culturais e uma guerra. Durante a guerra, a capacidade de viagem de dobra foi desenvolvida, mas não uniu o planeta sob um governo central. Nos anos seguintes, os Bolianos se envolveram em alianças com as raças Iren e Uzor. Em 2289, entraram em contato com a Federação Unida dos Planetas e foram aceitos como membros em 2320. Durante a Guerra contra o Domínio, a 6ª Frota da Federação protegeu o setor boliano, mas o sistema foi libertado em 2375 com a ajuda dos Romulanos, em uma operação chamada 'Operação Boliana'."
+  },
+
+  {
+    "id": 6,
+    "civilizacao": "Borg",
+    "planeta": "Tudo que se sabe sobre o planeta dos Borgs é que ele está localizado no Quadrante Delta da Via Láctea.",
+    "fisiologia": "Os Borgs são humanóides 'melhorados', com implantes cibernéticos que substituem partes do corpo orgânico. Originalmente, eram completamente orgânicos, mas evoluíram para criar uma estrutura social baseada em uma consciência coletiva. Cada Borg tem implantes cibernéticos personalizados para suas tarefas designadas. Eles não têm um pensamento individual, mas se conectam a uma rede de comunicação subespacial que os guia. A assimilação de outras espécies é uma característica marcante de sua fisiologia.",
+    "historia": "Os Borgs são originários do Quadrante Delta da Via Láctea, com uma história que remonta a milhares de milênios. Eles começaram a existir como seres orgânicos, mas com o tempo se tornaram híbridos com implantes cibernéticos. A Assimilação é o processo pelo qual os Borgs incorporam outras espécies, culturas e tecnologias à sua coletividade. O primeiro encontro com a Federação Unida dos Planetas ocorreu em 2365, quando a USS Enterprise-D se deparou com uma nave Borg em forma de cubo. Desde então, os Borgs invadiram o espaço da Federação, com vários encontros subsequentes. Não há liderança central, mas a Coletividade Borg é composta por várias 'colmias', sendo uma Rainha Borg uma das figuras mais notáveis na estrutura, embora sua destruição não tenha afetado o funcionamento da coletividade. A estrutura social dos Borgs é altamente redundante e resistente, permitindo que eles continuem a operar mesmo com grandes perdas em sua coletividade."
+  },
+
+  {
+    "id": 7,
+    "civilizacao": "Breens",
+    "planeta": "O planeta Breen está localizado no Quadrante Alfa, próximo ao Espaço Ferengi. O ambiente do planeta é polar, com temperaturas extremamente baixas, com uma temperatura comum de aproximadamente 220 Kelvin (-53°C). O planeta é majoritariamente congelado e grande parte do solo é improdutivo. O Breen é conhecido por ser uma grande 'bola de gelo', e as condições ambientais tornam as visitas de outras espécies extremamente difíceis.",
+    "fisiologia": "Os Breens são humanóides bípedes, com uma altura média similar à dos humanos. Sua fisiologia é adaptada ao ambiente extremamente frio de seu planeta natal. Eles não possuem um sistema circulatório líquido, mas sim milhares de minúsculos tubos ocos que permitem a troca de oxigênio diretamente com os órgãos internos. Sua temperatura interna é de cerca de 235 Kelvin (-38°C), e eles necessitam de macacões espaciais com capacetes de 'breaklite' para manter sua temperatura corporal e protegê-los de ambientes mais quentes. A temperatura máxima suportada para a sobrevivência é de 260 Kelvin (-13°C).",
+    "historia": "Os Breens têm uma história agressiva e são conhecidos como guerreiros traiçoeiros. Em 2366, piratas Breens atacaram a nave cardassiana Ravinok e escravizaram sua tripulação em minas de Dilithium no planeta Dozaria. Em 2372, uma colônia Bajoriana chamada 'Paraíso Livre' foi atacada por uma nave Breen. Durante a Guerra contra o Dominion, os Breens formaram uma aliança com o Dominion, o que fortaleceu a posição deste contra a Federação. Eles participaram da Segunda Batalha de Chin’toka, atacando o planeta Terra e causando inúmeras vítimas. Após o fim da guerra, os Cardassianos romperam sua aliança com os Breens devido a concessões feitas aos líderes Breens, como Thot Gor."
+  },
+
+  {
+    "id": 8,
+    "civilizacao": "Caitianos",
+    "planeta": "O planeta Cait é o segundo de doze no sistema estelar 15 Lyncis, classificado como uma estrela classe F. Cait, também conhecido como 'Ferasa' pelos Caitianos, é um planeta de classe M e está localizado no quadrante Alpha da galáxia. O planeta possui 5 continentes principais e uma população de 5,2 bilhões de habitantes. Possui duas luas, Rea e Sura, e uma atmosfera, massa e gravidade muito semelhantes às da Terra. O cinturão de asteroides entre o quinto e o sexto planeta do sistema fornece abundantes minerais, incluindo o dilithium.",
+    "fisiologia": "Os Caitianos são seres bipedais, humanóides, com aparência felina. Eles possuem uma visão apurada, especialmente para ambientes de pouca luz, e uma audição extremamente aguçada, o que os torna muito adequados para funções de comunicação e ciências sônicas. Seus olhos são grandes e dourados, e eles possuem uma cauda longa. Sua voz é tipicamente arrastada, muitas vezes soando como um 'ronronar'. Os Caitianos se comunicam em uma língua própria composta por tons suaves e ressoantes, o que torna difícil a adaptação a linguagens fonéticas.",
+    "historia": "Acredita-se que os Caitianos foram originalmente uma colônia do povo Kzinti, uma raça hostil. Contudo, apesar de sua origem guerreira, os Caitianos não mantiveram o comportamento agressivo de seus ancestrais. Eles fizeram contato pela primeira vez com as naves do Sindicato Orion e os Ferengi, e logo após, em 2249, encontraram as naves da Federação. Em 2270, os Caitianos se tornaram membros da Federação Unida dos Planetas. Além disso, o povo caitiano fundou várias colônias, como Havelind, Hochlor IV, Macadarna e Narval, e em 2363, também colonizaram o planeta Kirisha, onde tiveram um breve conflito com o Trono Cornalino, mas resolveram a situação através de negociações diplomáticas. Os Caitianos também ajudaram a ratificar a Constituição da Federação."
+  },
+
+  {
+    "id": 9,
+    "civilizacao": "Cardassianos",
+    "planeta": "Cardassia Prime é um planeta classe M, localizado no Sistema Cardassiano, aproximadamente 50 anos-luz distante da Terra. O Sistema Bajoriano, o mais próximo, está a 5,25 anos-luz de distância. O planeta é pobre em recursos naturais e a superfície é dominada por massa terrestre com pouca vegetação e mares. A atmosfera possui uma densa camada de dióxido de carbono, que causa o efeito estufa, resultando em temperaturas elevadas. Apenas os mais fortes sobrevivem neste ambiente árido. Cardassia possui uma população de 710 bilhões e uma taxa de natalidade de 7 para cada 1.000 habitantes.",
+    "fisiologia": "Os Cardassianos possuem uma aparência distinta com escamas que revestem parte de seu corpo. Eles são bípodes, com constituição física robusta e pele acinzentada. Sua característica mais marcante é a protuberância na testa, em forma de lágrima, mais pronunciada nos machos. Seus olhos são de cores variadas, com o azul escuro sendo comum. A altura média é elevada, e sua garganta é poderosa. São conhecidos por sua inteligência, frieza, arrogância e um ar de superioridade, sendo xenófobos, mas podem se tornar amigáveis após convivência com outras raças.",
+    "historia": "Cardassia, um planeta com uma antiga civilização próspera, sofreu com a escassez de recursos naturais, o que levou a uma grave crise de fome e doenças. Com a ascensão dos militares, a sociedade cardassiana tornou-se beligerante, expandindo seus domínios e adquirindo novas tecnologias por meios violentos. Após várias guerras, como o conflito com a Federação de Planetas Unidos e a anexação de Bajor, a União Cardassiana buscou paz com a Federação. A história militar da civilização foi marcada por tratativas de paz e alianças com o Dominion. A paz com a Federação permaneceu frágil, sendo constantemente desafiada por conflitos como a Guerra Klingon-Cardassiana e a Guerra contra o Dominion. A violência e o expansionismo marcaram sua trajetória, mas também existiram momentos de tentativa de reconciliação e negociação."
+  },
+
+  {
+    "id": 10,
+    "civilizacao": "Denobulanos",
+    "planeta": "Denobula, localizado no sistema Denobula Triaxa. O planeta é densamente povoado com cerca de 12 milhões de habitantes em 2152. A população vive em um único grande continente habitado, com uma convivência social intensa, uma vez que as cidades são completamente lotadas devido à escassez de espaço. Denobula é um planeta classe M, com duas luas.",
+    "fisiologia": "Os Denobulanos são humanóides com sulcos faciais proeminentes, testas com uma crista alargada e uma fenda vertical, além de um queixo estriado. Eles possuem sulcos nas costas ao longo da coluna vertebral e unhas de cor marrom escuro e amarelo. Sua língua é muito longa e eles utilizam raspadores de língua. Os machos têm um sorriso largo e emitem feromônios potentes quando estão romanticamente interessados. Sua fisiologia inclui um sistema imunológico muito poderoso e uma habilidade natural de escalada. Eles exigem pouco sono, mas hibernam por um período de cinco a seis dias por ano. Sua esperança de vida é extremamente longa, como evidenciado pelo Dr. Phlox, que viveu várias gerações de Denobulanos.",
+    "historia": "Os Denobulanos foram uma das raças fundadoras da Federação Unida dos Planetas e trabalharam em cooperação com os humanos muito antes da criação da Federação. Eles são conhecidos por suas contribuições à medicina exobiológica. O Dr. Phlox, um médico Denobulano, foi convocado para servir a bordo da primeira nave terráquea Enterprise NX-01. Historicamente, os Denobulanos tiveram conflitos com os Antaranos, incluindo uma guerra que terminou no final do século 19 da Terra, com mais de 20 milhões de Antaranos mortos. Apesar de um histórico de ódio entre as duas raças, muitos Denobulanos superaram esses ressentimentos. Durante o século 22, a embaixadora denobulana foi enviada à Terra para participar das discussões que resultaram na formação da Federação Unida dos Planetas."
+  },
+
+  {
+    "id": 11,
+    "civilizacao": "Espécie 8472",
+    "planeta": "O planeta da Espécie 8472 pertence a um universo fluídico, completamente vazio, onde toda forma de vida foi eliminada pela própria espécie. Este universo não é classificado como parte de um sistema solar específico, e não há informações sobre estrelas ou a distância da Terra. A população da espécie é desconhecida, mas se sabe que eles vivem em um estado isolado e não têm interesse em coexistir pacificamente com outras espécies.",
+    "fisiologia": "A Espécie 8472 possui uma fisiologia semi-humanóide com cabeça, tronco e membros. Eles têm uma estrutura de corpo exteriormente simétrica, com uma cabeça cônica, tronco alongado e três pernas (uma das quais funciona como uma garra ou pinça). Possuem uma cor de pele que varia de castanho-cinzento a lilás e são altamente imunes a tentativas de assimilação, como as feitas pelos Borgs. Suas células têm uma resistência extraordinária, impedindo a penetração das nano-sondas de assimilação. A espécie é capaz de sobreviver no vácuo do espaço e não parece precisar de oxigênio.",
+    "historia": "A primeira vez que a Espécie 8472 foi encontrada pela Federação Unida dos Planetas foi em 2373, no Quadrante Delta, dentro do território Borg. Os Borgs estavam travando uma guerra contra eles e, em uma tentativa de derrotá-los, a Capitã Janeway da USS Voyager fez uma aliança temporária com os Borgs. A espécie 8472 é altamente agressiva e não aceita negociações. Suas naves são feitas de biomassa orgânica e possuem um sistema de auto-regeneração. Em 2375, foi descoberto que a Espécie 8472 estava planejando uma invasão ao Quadrante Alfa. Após uma série de interações com a USS Voyager e os Borgs, houve uma tentativa de paz, mas a espécie 8472 permaneceu em seu universo fluídico.",
+    "tecnologia": "A tecnologia da Espécie 8472 é baseada em biomassa orgânica e inclui naves com propulsão de dobra e anti-matéria. As naves são compostas por conduítes orgânicos que contêm fluidos elétricos e possuem uma matriz binária com um campo neural de peptídeos, sugerindo um tipo de computador central biológico. As naves são capazes de se auto-regenerar. A espécie também utiliza um campo bioelétrico para impedir teletransporte e análise por tricorders."
+  },
+
+  {
+    "id": 12,
+    "civilizacao": "Ferengi",
+    "planeta": "Ferenginar - O planeta é dos Ferengis, situado no quadrante Beta da galáxia. Ele pertence ao sistema solar de Ferenginar, que é uma estrela classificada como uma gigante amarela. Apesar da insuficiência de dados, sabe-se que os Ferengis são uma raça avançada tecnologicamente e têm uma sociedade complexa.",
+    "fisiologia": "Os Ferengis são uma raça humanóide de baixa estatura. Possuem orelhas grandes e sensíveis devido à fina atmosfera de seu planeta, o que lhes permite captar sons, cheiros e sabores com alta precisão. Sua alimentação inclui larvas, insetos e sucos, e são altamente adaptáveis a diferentes tipos de comida.",
+    "historia": "Os Ferengis são conhecidos por sua filosofia capitalista, baseada nas Regras de Aquisição, que os guiam em todos os aspectos de seus negócios e relações sociais. Embora sejam considerados inimigos da Federação, muitas vezes colaboram com ela e outras raças dependendo das circunstâncias. Sua sociedade é dominada pelos homens, e as mulheres são marginalizadas, sem acesso às Regras de Aquisição. O governo Ferengi é liderado pelo Grande Nagus, que organiza as negociações e controla a economia. Eles acreditam que um bom Ferengi vai para a Tesouraria Divina após a morte, enquanto um mau Ferengi vai para a Caverna da Eterna Miséria. Suas Regras de Aquisição são focadas no lucro, muitas vezes sem ética ou moral, como exemplificado pela primeira regra: 'Uma vez que você tenha o dinheiro deles, nunca devolva'."
+  },
+
+  {
+    "id": 13,
+    "civilizacao": "Fundadores (Changelings)",
+    "planeta": "Nebulosa de Omarion. O planeta natal dos Fundadores é desconhecido, mas está localizado dentro da Nebulosa de Omarion.",
+    "fisiologia": "Os Changelings possuem uma fisiologia líquida e viscosa, permitindo-lhes mudar de forma e assumir qualquer aparência sólida. Sua forma natural é líquida e eles são capazes de se sustentar por longos períodos sem necessidade de alimentação. São conhecidos por sua expectativa de vida extremamente longa, podendo viver por mais de 500 anos. Sua habilidade de mudar de forma é um aspecto central de sua existência, e eles não possuem uma forma física fixa, podendo assumir qualquer figura ou aparência que desejem.",
+    "historia": "Os Fundadores, também conhecidos como Changelings, eram uma raça inicialmente rejeitada por outras raças devido à sua habilidade de assumir formas diferentes, o que gerava desconfiança. Ao longo do tempo, os Changelings começaram a se expandir pelo Quadrante Gama, criando o Dominion e conquistando outras raças como os Vorta e os Jem'Hadar. A fundação do Dominion ocorreu cerca de 2000 anos atrás, com o objetivo de 'impedir o universo de cair no Caos'. Durante esse período, eles estabeleceram uma sociedade complexa com uma administração centralizada, onde as decisões eram tomadas pelo Grande Elo, uma consciência coletiva, mas com um líder específico que expressava a vontade de todos os Changelings. Durante o conflito com o Quadrante Alfa, ocorreram anos de Guerra Fria seguidos por uma guerra aberta contra a Federação e outras potências do Quadrante Alfa e Beta. A guerra contra o Dominion resultou em grandes perdas, mas também evidenciou o poderio militar e tecnológico do Dominion, com os Jem'Hadar sendo sua força de combate principal."
+  },
+
+  {
+    "id": 14,
+    "civilizacao": "Gorns",
+    "planeta": "S'sgarnon - O planeta S'sgarnon é a casa da raça Gorn. É um planeta Classe 'M', localizado no quadrante Beta, e possui uma estrela gigante vermelha como sua estrela principal. A temperatura padrão é morna, com clima temperado. A gravidade do planeta é 1,4 vezes maior que a gravidade normal, o que torna seus habitantes mais fortes e resistentes em gravidade normal.",
+    "fisiologia": "Os Gorns têm uma estrutura e fisiologia réptil, mas são bípedes. São conhecidos pela sua imensa força muscular e grande estatura, com cerca de 2,90 metros de altura. O corpo dos Gorns é bem desenvolvido, especialmente os músculos dos braços, pernas e pulmões. Sua anatomia inclui algumas mudanças no posicionamento dos órgãos internos, com o cérebro sendo quase totalmente utilizado para comandos de força e pensamento indutivo. Embora seus movimentos sejam lentos e descoordenados, devido à falta de habilidades motoras finas, os Gorns são extremamente fortes e resistentes.",
+    "historia": "Os Gorns destruíram um posto avançado em Cestus III em 2267, alegando que o posto estava em seu território. Após esse incidente, o capitão Kirk da USS Enterprise derrotou o comandante da nave Gorn responsável pelo ataque, em um combate promovido pelos Metrons. Apesar do conflito, a Federação e a Hegemonia Gorn não estão em estado de guerra, graças à mediação dos Metrons. Desde então, negociações para delimitar as fronteiras territoriais continuam, mas com progressos lentos, pois há facções dentro da Hegemonia Gorn que discordam sobre a melhor forma de lidar com a Federação. A Hegemonia Gorn é governada por dois autarcas, um que representa o planeta natal dos Gorns e outro que representa os sistemas colonizados pela raça."
+  },
+
+  {
+    "id": 15,
+    "civilizacao": "Hirogens",
+    "planeta": "O planeta dos Hirogens está localizado no Quadrante Delta. Eles são uma raça nômade que viaja em pequenas naves com um número reduzido de pessoas, geralmente duas ou três. Sua sociedade está em declínio e estima-se que, em mil anos, a raça poderá estar extinta.",
+    "fisiologia": "Os Hirogens são muito grandes, com machos adultos ultrapassando 2,50 metros de altura e possuindo uma força física extrema. Sua percepção sensorial é aguçada e adaptada para a caça. Eles também possuem um sistema imunológico impressionante e usam uma enzima para quebrar ossos e tecidos de suas presas. A fisiologia das fêmeas é pouco conhecida, mas acredita-se que os machos adquiram troféus raros para atrair fêmeas.",
+    "historia": "Os Hirogens são uma raça nômade e predatória, obcecada pela caça e pela coleta de troféus. Sua sociedade gira em torno da caça, que é vista quase como uma reverência espiritual. Eles possuem rituais que envolvem pintura no rosto e capacetes durante a caça. A estrutura social é organizada em blocos de caçadores, liderados por um Alfa, sendo que o Beta assume o cargo caso o Alfa morra. A tecnologia Hirogen é focada em sobrevivência e caça, com armaduras que fornecem suporte à vida e rifles avançados. A raça entrou em contato com a Federação em 2374, enfrentando a USS Voyager em uma série de encontros hostis. Os Hirogens também participaram de jogos Tsunkatse e usaram tecnologia holográfica, influenciada pela Federação, na tentativa de modificar sua cultura predatória. A sociedade Hirogen está em declínio, e suas práticas de caça e troféus são fundamentais para entender sua cultura."
+  },
+
+  {
+    "id": 16,
+    "civilizacao": "Jem'Hadar",
+    "planeta": "Planeta dos Fundadores na Nebulosa de Omarion. Este planeta é habitado pelos Fundadores (changelings), uma raça criadora do Dominion. Não há informações sobre o sistema solar, estrelas, ou classificação. O planeta é conhecido por ser o lar dos Fundadores, que têm controle sobre o Dominion e suas tropas, os Jem'Hadar. O planeta está localizado no Quadrante Gama e os Fundadores governam com base em sua biotecnologia avançada e controle das tropas Jem'Hadar.",
+    "fisiologia": "Os Jem'Hadar são uma raça geneticamente alterada criada pelos Fundadores. Nascem em câmaras de nascimento e, em três dias, atingem o desenvolvimento de um ser humanoide com 20 anos de idade. São humanóides com características de répteis, pele esverdeada e chifres que aparecem com o tempo. Possuem a habilidade de se tornar invisíveis ao olho humano, mas visíveis por instrumentos de medição que captam outros níveis do espectro de luz. São mantidos sob controle pelos Fundadores através da droga 'Ketrecel White', que deve ser administrada regularmente, ou eles morrem devido à síndrome de abstinência. Eles vivem cerca de 15 anos e são todos machos, sem possibilidade de reprodução natural.",
+    "historia": "O Dominion é uma aliança do Quadrante Gama composta pelos Fundadores, Vortas, Jem'Hadar e outras raças como os Karemma. Os Fundadores dominam o Dominion, administrando-o por meio dos Vortas e protegendo-o com as tropas Jem'Hadar. O primeiro encontro com os Jem'Hadar ocorreu em 2370, quando a Federação foi capturada por Jem'Hadar durante uma missão. A guerra contra o Dominion se estendeu até o Quadrante Alfa, com os Jem'Hadar sendo a principal força de combate do Dominion. Eles participaram de várias batalhas e conflitos com a Federação e outras raças do Quadrante Alfa."
+  },
+
+  {
+    "id": 17,
+    "civilizacao": "Kazon",
+    "planeta": "Nystrom, planeta habitado pelos Kazons. Os Kazons ocupam um grande território chamado Nystrom, e são divididos em várias seitas que competem entre si pelo domínio. O planeta está no Quadrante Delta da galáxia, onde os Kazons formam um império com um sistema de governo baseado em várias seitas e facções.",
+    "fisiologia": "Os Kazons são humanóides, bípede, mamíferos com sistema nervoso central. Eles são conhecidos por sua força, velocidade e sentidos aguçados, adaptados para o combate e sobrevivência em ambientes hostis. As crianças Kazon aprendem a lutar desde cedo e são treinadas para serem guerreiros natos.",
+    "historia": "Os Kazons foram escravizados pelos Trabe, mas se rebelaram há 25 anos e roubaram as naves dos Trabe, ganhando sua liberdade. Em 2372, tentaram um acordo com a USS Voyager, mas a relação entre eles e a nave não foi amigável. Os Kazons são muito territoriais e vivem em constante disputa entre suas seitas. Em 2372, cerca de 18 seitas Kazons eram identificadas pela USS Voyager, com algumas das principais sendo Hobii, Mostral, Nistrim, Oglamar e Prommar. As naves dos Kazons, chamadas 'Raiders', são roubadas dos Trabe, e eles não possuem tecnologia de teletransporte ou replicadores. Em sua busca por vingança, os Kazons capturaram a USS Voyager por um breve período com a ajuda da espiã Cardassiana Seska, mas foram derrotados por uma aliança com naves Talaxianas e tripulantes da USS Voyager."
+  },
+
+  {
+    "id": 18,
+    "civilizacao": "Kelpiens",
+    "planeta": "Kaminar é o planeta natal dos Kelpiens e dos Ba'ul, situado em uma região do espaço entre os Quadrantes Alfa e Beta, fora da Federação Unida dos Planetas por volta de 2257. O sistema solar Kaminar possui uma estrela e seis planetas, incluindo Kaminar, um planeta com anéis. Os Ba'ul, uma espécie tecnologicamente avançada com capacidade de dobra, dominam o planeta Kaminar, enquanto os Kelpiens estavam em uma fase evolutiva pré-dobra e viviam como presas. Kaminar não é parte da Federação, e a população Kelpien é reduzida.",
+    "fisiologia": "Os Kelpiens são humanóides bípedes, altos e esguios, com a habilidade única de detectar perigo iminente, o que se manifesta fisicamente através da exposição de gânglios em suas cabeças. Eles possuem sentidos desenvolvidos, com uma visão que permite enxergar no espectro ultravioleta, uma capacidade de detectar predadores em um raio de até dez quilômetros e velocidade superior a 80 km/h, facilitada por pés que lembram cascos de cavalos. Além disso, possuem resistência física excepcional e um sexto sentido para detectar ameaças. Durante a fase de vida conhecida como vahar'ai, eles experimentam um processo doloroso que os prepara para serem abatidos pelos Ba'ul, uma crença amplamente aceita entre eles até que Saru, um Kelpien, revelou que essa crença era manipulada pelos Ba'ul.",
+    "historia": "Historicamente, os Kelpiens viveram sob o controle dos Ba'ul, uma espécie mais avançada tecnologicamente que usava a tecnologia de dobra e impunha a crença no 'Grande Equilíbrio', que os mantinha submisso a um ciclo de morte ritualista. Acreditava-se que o vahar'ai era um processo terminal, mas Saru, um Kelpien do século 23, descobriu que era manipulado. Ao conseguir contato com a Federação Unida dos Planetas, Saru revelou a verdade sobre o 'Grande Equilíbrio' e ajudou a libertar sua espécie, interrompendo o genocídio promovido pelos Ba'ul. A partir de 2257, os Kelpiens começaram a se libertar do domínio dos Ba'ul, com mais de 60% da população entrando no vahar'ai, quebrando a crença que os controlava."
+  },
+
+  {
+    "id": 19,
+    "civilizacao": "Klingons",
+    "planeta": "Qo'noS (Kronos) - O planeta natal dos Klingons, localizado em um sistema estelar não especificado. Kronos é um planeta classe M, com uma superfície predominantemente terrestre e clima árido. A vegetação é escassa, e a água superficial é rara. A atmosfera contém uma densa camada de dióxido de carbono, que contribui para uma temperatura elevada devido ao efeito estufa. Informações sobre o sistema solar, estrelas e população não são fornecidas.",
+    "fisiologia": "Os Klingons possuem uma fisiologia distinta, com características como reentrâncias na testa e uma construção física superior aos outros humanóides. Eles têm múltiplas redundâncias de órgãos vitais, o que lhes confere grande resistência a ferimentos durante batalhas. Seu sangue é rosa, e seu coração possui uma camada extra de musculatura, proporcionando maior força. A ausência de dutos lacrimais é outra característica marcante, o que dá a eles uma aparência fria para os terráqueos, embora possuam grandes sentimentos. Seu tônus muscular e estrutura física são notavelmente superiores.",
+    "historia": "A nação Klingon foi fundada há cerca de 1.500 anos por Kahless, o Inesquecível, que uniu o povo Klingon após matar o tirano Molor. O primeiro contato com os humanos ocorreu em 2151, quando uma nave Klingon caiu na Terra. Esse evento iniciou a longa história de hostilidades entre os Klingons e a Federação Unida dos Planetas, que foi marcada por guerras, tratados de paz, alianças e disputas internas. Em 2267, o Tratado de Paz de Orgânia foi assinado, encerrando 49 anos de hostilidades com a Federação. Em 2293, a destruição da lua Praxis causou uma crise econômica no Império Klingon, mas também abriu caminho para acordos de paz com a Federação. Em 2375, o Império Klingon venceu a guerra contra o Dominion com a ajuda de aliados, incluindo a Federação e os Romulanos. O sistema político do Império Klingon é baseado em um Alto Conselho, com um Chanceler à frente e regras rígidas de honra e sucessão."
+  },
+
+  {
+    "id": 20,
+    "civilizacao": "Nausicaanos",
+    "planeta": "Nausicaa é o planeta natal da raça Nausicaana, localizado no sistema estelar Nausicaa, no quadrante Beta da galáxia, dentro do espaço da Federação Unida dos Planetas. Nausicaa é o quinto planeta de uma estrela amarela-laranja de classe K. O planeta é de classe M e possui três luas inabitadas. A gravidade é aproximadamente 0,7G, e o sistema estelar possui vários planetas inabitados, com exceção do planeta Nausicaa.",
+    "fisiologia": "Os Nausicaanos são humanóides de grande porte, com altura geralmente superior a dois metros. Eles têm grande força física e suas peles são predominantemente cinzas, mas podem apresentar outras tonalidades. Possuem uma estrutura óssea proeminente na cabeça e presas afiadas e salientes de cada lado da boca. Alguns têm uma linha de quatro chifres pequenos que correm verticalmente para baixo da testa. A glândula adrenal dos Nausicaanos exala um perfume semelhante ao de suor de seres humanos após exercício. A voz dos Nausicaanos é profunda, com um sotaque distinto.",
+    "historia": "Durante o século 22, os Nausicaanos eram conhecidos como piratas e mercenários, atacando cargueiros de várias raças. Em 2151, a Frota Terra fez primeiro contato com eles, quando a nave Enterprise NX-01 interveio em um conflito entre a nave ECS Fortunate e piratas Nausicaanos. Com o tempo, os Nausicaanos se tornaram comerciantes, mineiros e trabalhadores braçais. Nos anos seguintes, eles se envolveram em diversos eventos, como o ataque a um museu em Remmil VI, a contratação de Nausicaanos como guarda-costas e bandidos associados ao Sindicato Orion. Em 2371, um Nausicaano participou de uma disputa diplomática holográfica no USS Voyager, onde lutava pelos direitos de mineração de um planetóide rico em dilítio. Apesar de seu comportamento violento, os Nausicaanos continuam a ser uma presença no cenário galáctico, com uma forte cultura de força e brutalidade."
+  },
+
+  {
+    "id": 21,
+    "civilizacao": "Pingos (Tribbles)",
+    "planeta": "Iota Geminaran IV, planeta nativo dos Pingos, foi bombardeado pelo Império Klingon no final do século 23, sugerindo que agora faz parte do Império Klingon. Em seu planeta natal, os Pingos eram controlados por predadores naturais, mas quando removidos para outros ambientes, sem predadores e com alimentos em abundância, se tornam uma praga incontrolável.",
+    "fisiologia": "Os Pingos são pequenas criaturas que se assemelham a bolas de pelúcia macia de diferentes cores e tonalidades. São conhecidos por sua incrível taxa de reprodução, sendo bissexuais e nascendo grávidos. Sua reprodução é tão acelerada que podem ter até dez filhotes a cada doze horas, se bem alimentados. Emitem um som suave e calmante, mas se tornam inquietos e agressivos na presença dos Klingons.",
+    "historia": "Os Pingos foram introduzidos na série Star Trek no episódio 'The Trouble With Tribbles' em 1967. Criados como uma comédia, esses animais têm a habilidade única de se multiplicar rapidamente, tornando-se uma ameaça quando não controlados. Eles são originários de Iota Geminaran IV e, ao serem retirados de seu habitat, tornaram-se uma praga. Os Klingons, que consideram os Pingos uma ameaça ecológica, os perseguiram e exterminaram, chegando até a bombardear o planeta Iota Geminaran IV. Os Pingos também aparecem em episódios posteriores de Star Trek, incluindo Star Trek: Deep Space Nine e Star Trek: Enterprise."
+  },
+
+  {
+    "id": 22,
+    "civilizacao": "Império Romulano",
+    "planeta": "Romulus - O planeta Romulus é o lar dos romulanos, situado no sistema estelar Romulan, próximo à fronteira da Federação Unida dos Planetas. A estrela do sistema Romulan é uma anã vermelha, e o planeta possui montanhas impressionantes e paisagens exuberantes. O planeta vizinho, Remus, é desértico e inóspito.",
+    "fisiologia": "A fisiologia romulana é semelhante à dos vulcanos, com algumas diferenças notáveis. Eles possuem uma estrutura física mais robusta, com músculos densos, o que lhes confere maior força e agilidade. Seu sangue é baseado em cobre, resultando em uma coloração verde. Os romulanos possuem resistência ao calor, radiação e visão noturna aprimorada.",
+    "historia": "Os romulanos se separaram dos vulcanos cerca de 2000 anos atrás, rejeitando os ideais de paz e lógica em favor de um império expansionista e militarista. Sua história é marcada por conflitos com a Federação Unida dos Planetas e com os vulcanos. Durante a Guerra Romulana-Federação, estabeleceu-se a Zona Neutra, que separa seus territórios da Federação. Os romulanos são conhecidos por suas naves camufladas e tecnologias avançadas, como armas de plasma. Seu império é governado por um consulado e um senado, com forte influência de alianças políticas e familiares. As mulheres romulanas têm o mesmo status dos homens, podendo comandar naves e ocupar altos cargos. Além disso, os romulanos tentaram reunificar-se com os vulcanos, mas as tentativas falharam. A destruição de Romulus e a morte de seu planeta natal ocorreram após o colapso de sua estrela, a Estrela Hobus. O império romulano desempenha um papel significativo nas guerras e conflitos intergalácticos, especialmente nas tensões com a Federação e os Klingons."
+  },
+
+  {
+    "id": 23,
+    "civilizacao": "Sulibans",
+    "planeta": "O planeta natal dos Sulibans, localizado no Setor 3641, tornou-se inabitável na década terrestre de 1850. A maioria dos Sulibans adotou um estilo de vida nômade, enquanto alguns se estabeleceram nos territórios de outras espécies, como no Setor Tandar, e se misturaram na população local.",
+    "fisiologia": "As capacidades físicas e biológicas dos Sulibans naturais eram comparáveis às dos seres humanos. A grande diferença era seu sistema respiratório, que continha três lobos brônquicos. A raça foi modificada pelos Sulibans da Cabala, que receberam extensas melhorias físicas através de engenharia genética. Esses aprimoramentos variavam entre os indivíduos e poderiam incluir uma flexibilidade muito maior, a capacidade de se agarrar a paredes e tetos, a capacidade de alterar a cor e textura da pele, retinas compostas para visão aprimorada, aumento do número de lobos brônquicos, e a habilidade de respirar em diferentes atmosferas de planetas, além de tolerar o vácuo.",
+    "historia": "O planeta natal dos Sulibans tornou-se inabitável na década de 1850. A raça foi modificada geneticamente pela Cabala, uma facção que os utilizou como soldados em uma guerra temporal. Durante o século 22, os Sulibans entraram em contato com os humanos pela primeira vez, quando perseguiram um mensageiro Klingon chamado Klaang. Eles estiveram envolvidos em vários conflitos, como a destruição de uma colônia em Paraagan II e tentaram adquirir uma cápsula de viagem no tempo. Durante a Guerra Fria Temporal, a Cabala se opôs a facções como os Tholianos, os Construtores das Esferas e os Na'kuhl. Após a destruição de um canal temporal e a derrota dos Na'kuhl, a Guerra Fria Temporal chegou ao fim. Os Sulibans enfrentaram uma percepção negativa por parte de outras culturas, que os viam como perigosos devido às modificações genéticas dos soldados da Cabala."
+  },
+
+  {
+    "id": 24,
+    "civilizacao": "Talaxianos",
+    "planeta": "Talax IV, também conhecido como Talaxia, é um planeta classe M localizado no sistema Talaxiano no Quadrante Delta. O sistema estelar é trinário e Talax IV é o único planeta habitado. A capital é a cidade de Paxau, e a população do planeta é de aproximadamente 14,2 bilhões. Talax foi anexado pela Ordem Haakoniana em 2356, após a Guerra Talaxiana-Haakoniana. O planeta desde então permaneceu sob o controle Haakoniano e passou a se chamar oficialmente Província Autônoma de Talax.",
+    "fisiologia": "Os Talaxianos são uma espécie humanóide com pele clara de tom amarelado e manchas marrom-avermelhadas. Eles têm cabelos ruivos no topo da cabeça e, nos machos, costeletas grandes que se desenvolvem na puberdade. Possuem pêlos faciais e bigodes com função erótica, que ao serem puxados induzem excitação sexual. São corpulentos, com musculatura densa no tronco superior e pés com dedos longos, com o dedo mínimo ampliado. O sangue dos Talaxianos é vermelho e seu sistema respiratório é ligado à medula espinhal dupla. São tolerantes a alimentos picantes, como demonstrado pela reação de Neelix a uma sopa vulcana plomeek.",
+    "historia": "Os Talaxianos têm uma longa história e foram uma raça primitiva, tendo desenvolvido a capacidade de dobra apenas 892 anos atrás (cerca de 1450 da Terra). Foram contatados pela raça Vaadwaur, embora os detalhes desse contato não sejam claros. Em 2356, após uma década de guerra, a Ordem Haakoniana lançou uma arma de destruição em massa chamada cascata Metreon contra a lua de Talax, Rinax, matando mais de 300.000 Talaxianos e causando uma doença sanguínea mortal chamada Metremia. Após esse evento, os Talaxianos se renderam incondicionalmente à Ordem Haakoniana. O povo Talaxiano é conhecido por seu caráter simpático e prestativo, com um grande senso de humor e uma forte crença na vida após a morte. Celebram o Prixin, um feriado religioso que celebra a vida familiar."
+  },
+
+  {
+    "id": 25,
+    "civilizacao": "Talosianos",
+    "planeta": "Talos IV, um planeta localizado no sistema binário Talosiano, situado nos limites dos quadrantes Alfa e Beta. O planeta passou por uma guerra nuclear que devastou sua superfície e resultou na extinção de suas espécies animais e vegetais. A população atual dos Talosianos vive no subsolo devido aos efeitos da catástrofe nuclear. O sistema solar é composto por dez planetas.",
+    "fisiologia": "Os Talosianos são humanóides de pequeno porte, desprovidos de pelos e com crânios desproporcionais ao seu corpo. Sua cabeça apresenta estranhas protuberâncias devido a artérias, e eles possuem um grande poder empático, sendo capazes de criar ilusões e ler pensamentos à distância. Sua vida média é de várias centenas de anos, mas são estéreis devido aos efeitos da guerra nuclear que devastou seu planeta.",
+    "historia": "Os Talosianos viviam em uma sociedade avançada, mas foram quase completamente destruídos por uma guerra civil e, subsequentemente, por uma guerra nuclear. Após a catástrofe, a sociedade foi forçada a se refugiar no subsolo, onde desenvolveram suas habilidades telepáticas. Em 2236, a nave SS Columbia fez o primeiro contato com os Talosianos, mas a nave desapareceu após um acidente. Em 2254, a USS Enterprise, comandada por Christopher Pike, teve um contato direto, descobrindo que os Talosianos tentavam encontrar um humano para repovoar o planeta. Esse encontro levou à criação da Ordem Geral 7, proibindo qualquer contato com Talos IV. Em 2266, a USS Enterprise desobedeceu essa ordem para levar o capitão Pike, agora imobilizado, ao planeta, com a esperança de que ele pudesse viver com a ajuda das ilusões dos Talosianos. A ordem foi cancelada devido às circunstâncias especiais deste caso. Não se sabe se Pike e Vina colaboraram na reconstrução da sociedade Talosiana, pois a proibição da Frota Estelar ainda persiste."
+  },
+
+  {
+    "id": 26,
+    "civilizacao": "Tellaritas",
+    "planeta": "Tellar Prime, localizado no sistema 61 Cygni, na constelação Cygnus, cerca de 11,4 anos-luz do Sistema Solar. O sistema é composto por seis planetas orbitando duas estrelas binárias do tipo K. O planeta Tellar Prime é o quarto do sistema. O sistema está próximo de outras estrelas como Altair (9.7 anos-luz) e Sigma Delta (11.2 anos-luz). A população de Tellar Prime é estimada em 10 bilhões, com duas luas, Kera e Phinda. A superfície tem 43% de água, uma atmosfera composta de 74% de nitrogênio, 26% de oxigênio e 2% de outros traços químicos. O clima é temperado, com grandes regiões polares e uma geografia variada, incluindo montanhas, florestas e pântanos.",
+    "fisiologia": "Os Tellaritas possuem características suínas, com rostos semelhantes a porcos. Sua pele é rosada e rugosa, coberta por pelos. Eles têm barbas e um grande focinho. São mais baixos que os humanos, com altura média de 1,6 metros (homens) e 2,0 metros (mulheres). Sua expectativa de vida é de 87 anos (homens) e 93 anos (mulheres). Possuem dois estômagos e são ambidestros. Seu sistema digestivo é adaptado para vegetais, mas consomem carne de animais parecidos com cachorros. O sangue é roxo e o sistema sensorial é avançado no olfato e audição, enquanto a visão é inferior à de outras espécies.",
+    "historia": "Os Tellaritas já possuíam tecnologia de dobra desde o século XX e estavam envolvidos em comunicações interplanetárias. Eles primeiro interagiram com os humanos em 2153 através da nave Enterprise NX-01. Em 2155, uma delegação de Tellaritas participou das negociações para formar uma Coalizão de Planetas, que culminou na adesão à Federação Unida dos Planetas em 2161. Os Tellaritas, conhecidos por sua habilidade em debate e política, se tornaram membros fundadores da Federação, junto com a Terra, Andoria e Vulcano. Além disso, durante a Guerra do Domínio, em 2374, houve receio de que o planeta Tellar Prime fosse o próximo alvo do Domínio. Os Tellaritas têm uma rica história mitológica, incluindo a figura de um demônio chamado Krognik, e uma religião que valoriza o debate e a argumentação."
+  },
+
+  {
+    "id": 27,
+    "civilizacao": "Trill",
+    "planeta": "Planeta Trill, localizado no quadrante Alfa. O planeta Trill é habitado por uma civilização com dois tipos de Trills, uma com testa saliente (10% da população) e outra com manchas laterais no corpo (90% da população).",
+    "fisiologia": "Os Trills são uma raça humanóide que se une simbioticamente a vermes, chamados simbiontes, que vivem na cavidade abdominal do hospedeiro. O simbionte pode viver no corpo do hospedeiro por toda a sua vida, carregando memórias dos hospedeiros anteriores. Há duas espécies de Trills: uma com testa saliente e outra com manchas laterais, sendo que ambas podem ser unidas aos simbiontes. O corpo do simbionte é composto por uma protuberância craniana e um rabo recoberto por um exoesqueleto. A fisiologia dos Trills permite que eles modifiquem seu metabolismo e ondas cerebrais para se adaptarem ao simbionte.",
+    "historia": "Os Trills mantiveram seu primeiro contato com os Klingons em 2289. A sociedade Trill é unificada e possui uma estrutura governamental influente. Os Trills podem se unir a um simbionte após um rigoroso treinamento de três anos e é considerado uma honra para eles. A cada ano, aproximadamente 5.000 candidatos são treinados, e apenas cerca de 300 simbiontes estão disponíveis. A relação entre o simbionte e o hospedeiro é forte, com os dois sendo biologicamente interdependentes após 93 horas juntos."
+  },
+
+  {
+    "id": 28,
+    "civilizacao": "Vidianos",
+    "planeta": "Os Vidianos são nativos do Quadrante Delta, embora não exista dados suficientes sobre o nome do planeta ou características como sistema solar, classificação das estrelas, distância da Terra ou população, podemos entender que seu planeta era rico e próspero antes da chegada da doença Phagia.",
+    "fisiologia": "Os Vidianos eram uma espécie humanoide de aparência saudável e próspera, com uma sociedade de pedagogos, artistas e exploradores. No entanto, devido à Phagia, uma doença degenerativa que destrói órgãos, a aparência dos Vidianos foi alterada. Com o uso de transplantes de órgãos e pele de outras espécies, eles passaram a ter uma aparência deformada, com partes de corpos de outros seres mescladas aos seus. Esse processo de modificação tornou-os universalmente feios e deformados, como uma mistura de 'Frankenstein'.",
+    "historia": "Originalmente uma raça próspera e de grande expansão, os Vidianos foram devastados pela doença Phagia, que não tem cura. Para sobreviver, eles começaram a realizar transplantes de órgãos de outras espécies, incluindo humanos, para substituir partes do corpo afetadas pela doença. No entanto, a Phagia também afeta os órgãos transplantados, tornando o tratamento temporário e ineficaz. Em 2372, a médica Danara Pel ajudou a tripulação da USS Voyager, mas outros Vidianos aproveitaram a missão para capturar a tripulação e obter mais órgãos. Com o tempo, a sociedade Vidiana se tornou uma mistura de cientistas desesperados e criminosos, capturando outros seres para coletar seus órgãos."
+  },
+
+  {
+    "id": 29,
+    "civilizacao": "Vortas",
+    "planeta": "Kareel Prime, o planeta natal dos Vortas, foi destruído pelos Jem'Hadar após a recusa de Kareel Prime em ingressar no Dominion.",
+    "fisiologia": "Os Vortas são humanóides com cabelo preto, orelhas pontiagudas e longas, e olhos claros que podem ser verdes, cinzas ou azuis. Eles possuem habilidades telecinéticas poderosas, permitindo-lhes lançar esferas de energia com cerca de 30 cm de diâmetro, capazes de arremessar um ser humano a mais de dois metros de distância. Eles são imunes a maioria das toxinas.",
+    "historia": "Os Vortas foram geneticamente manipulados pelos Fundadores (Changelings) para atuar como o braço administrativo do Dominion no Quadrante Gama. Eles são responsáveis por manter o controle dos Jem'Hadar, a tropa de elite do Dominion, em missões. Após a destruição de seu planeta natal, Kareel Prime, os Vortas passaram a ser parte essencial do Dominion, atuando como elo entre os Fundadores e as outras raças dominadas. Os Vortas são conhecidos por serem arrogantes e auto-confiantes, além de terem um modo de vida quase imortal, pois seus clones são gerados quando um Vorta importante morre. Famosos Vortas incluem Eris, uma espiã infiltrada na estação Deep Space Nine, e Weyoun, um administrador de alto escalão do Dominion, que passou por várias gerações, sendo criado após a morte de seus predecessores. O Weyoun 8 foi o último de sua linha e morreu durante uma revolta interna no Dominion."
+  },
+
+  {
+    "id": 30,
+    "civilizacao": "Vulcanos",
+    "planeta": "Vulcano, também conhecido como T'khasi, é um planeta duplo localizado no sistema 40 Eridani A, composto por uma estrela gigante primária e duas anãs (uma vermelha e outra branca). O planeta tem uma atmosfera rarefeita e temperaturas elevadas para seu tipo. A gravidade de Vulcano é mais alta que a da Terra, e o planeta é geologicamente mais velho. Vulcano é famoso por ser o coração intelectual da Federação, abrigando a Academia de Ciências Vulcana. A falta de recursos hídricos é suprida com água extraída do subsolo. A população de Vulcano é composta por seres humanos, com características físicas e biológicas adaptadas ao ambiente hostil e sua história é marcada por grandes guerras e crises que quase resultaram na extinção da civilização.",
+    "fisiologia": "Os Vulcanos de T'Khasi são humanoside, com uma estrutura física que inclui um corpo magro e alto. Os machos adultos têm em média entre 1,80 e 2,00 metros de altura, enquanto as fêmeas variam de 1,70 a 1,80 metros. Eles possuem músculos densos e uma maior agilidade que a maioria dos outros seres humanóides, o que os torna naturalmente aptos para atividades atléticas e artes marciais. Sua bioquímica é parecida com a dos humanos, mas o sangue é verde devido à presença de cobre, e as células sanguíneas possuem uma forma especial que ajuda na oxigenação e resfriamento do corpo. Os Vulcanos têm sentidos apurados, como uma visão adaptada para a noite e audição superior, além de um tato altamente desenvolvido.",
+    "historia": "A história de Vulcano foi marcada por uma fase de guerras nucleares entre as duas etnias principais, o que quase levou à extinção do planeta. Após a derrota de uma das etnias, esta fundou o Império Romulano, enquanto a outra se voltou para a filosofia da lógica pura, com Surak sendo o principal responsável por essa transformação. Surak desenvolveu uma filosofia de autocontrole e lógica, que reformulou completamente a sociedade vulcana. Vulcano passou por um processo de industrialização acelerada e explorou rapidamente seu sistema solar. A civilização vulcana é caracterizada por uma grande capacidade científica e tecnológica, especialmente na área de computação."
+  },
+
+  {
+    "id": 31,
+    "civilizacao": "Xindis",
+    "planeta": "Xindus - O planeta é governado pelo Conselho Xindi e está localizado na região da galáxia conhecida como Expansão Dúlfica. A Expansão Dúlfica está situada a aproximadamente 50 anos-luz da Terra, com uma extensão calculada de 2.000 anos-luz. O sistema solar de Xindus inclui vários sistemas como o Sistema Azati Prime e o Sistema Xindus, que fazem parte da região perigosa e cheia de anomalias espaciais. Xindus foi destruído em 2033, marcando o fim da Guerra Civil entre as subespécies Xindis.",
+    "fisiologia": "Os Xindis são formados por cinco (ou anteriormente seis) subespécies diferentes: Aquáticos, Arbóreos, Aviários (extintos), Insetoides, Primatas e Répteis. Apesar das diferenças físicas, todas as espécies compartilham mais de 99,5% do DNA. As espécias Xindis têm características físicas distintas, como rugas pronunciadas nas testas e bochechas. A fisiologia varia de acordo com a espécie: os Aquáticos são enigmáticos e sábios, os Arbóreos são pacíficos e calmos, os Insectoides se reproduzem de forma assexuada, os Primatas são intelectuais e considerados confiáveis, e os Répteis são agressivos e militaristas.",
+    "historia": "A história dos Xindis está marcada por uma grande guerra civil, que culminou com a destruição de Xindus e a extinção dos Xindis-Aviários. Após a destruição do planeta natal em 2033, foi criado o Conselho Xindi, composto por representantes das subespécies remanescentes. Em 2153, a Terra foi atacada por uma sonda Xindi, matando milhões de pessoas. A tentativa de destruição da Terra fazia parte de um plano maior dos 'Construtores das Esferas' para manipular a Linha Temporal. No final, as esferas artificiais que causavam as anomalias espaciais foram destruídas pela nave Enterprise, restaurando o espaço da Expansão Dúlfica em 2154."
   }
 ]
