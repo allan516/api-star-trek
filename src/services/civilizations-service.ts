@@ -1,10 +1,10 @@
 import { HttpModel } from "../models/http-model";
-import { getPlanetsRepository } from "../repositories/planets-respository";
+import { getCivilizationsRepository } from "../repositories/civilizations-respository";
 import * as HttpResponse from "../utils/http-response";
 
-export const getPlanetsService = async (): Promise<HttpModel> => {
+export const getCivilizationsService = async (): Promise<HttpModel> => {
   try {
-    const data = await getPlanetsRepository();
+    const data = await getCivilizationsRepository();
 
     if (data !== undefined) return await HttpResponse.ok(data);
 
